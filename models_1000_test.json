@@ -1,0 +1,6002 @@
+[
+    {
+        "id": "moonshotai/Kimi-K3",
+        "author": null,
+        "downloads": 387822,
+        "likes": 9077
+    },
+    {
+        "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "author": null,
+        "downloads": 955767,
+        "likes": 1053
+    },
+    {
+        "id": "baidu/Unlimited-OCR",
+        "author": null,
+        "downloads": 2598659,
+        "likes": 3596
+    },
+    {
+        "id": "owensong/Inflect-Micro-v2",
+        "author": null,
+        "downloads": 1100,
+        "likes": 328
+    },
+    {
+        "id": "poolside/Laguna-S-2.1",
+        "author": null,
+        "downloads": 73246,
+        "likes": 852
+    },
+    {
+        "id": "Kwaipilot/KAT-Coder-V2.5-Dev",
+        "author": null,
+        "downloads": 9225,
+        "likes": 355
+    },
+    {
+        "id": "Nanbeige/Nanbeige4.2-3B",
+        "author": null,
+        "downloads": 24542,
+        "likes": 583
+    },
+    {
+        "id": "zai-org/GLM-5.2",
+        "author": null,
+        "downloads": 1527760,
+        "likes": 4686
+    },
+    {
+        "id": "unsloth/Kimi-K3-GGUF",
+        "author": null,
+        "downloads": 12178,
+        "likes": 212
+    },
+    {
+        "id": "upstage/Solar-Open2-250B",
+        "author": null,
+        "downloads": 12411,
+        "likes": 706
+    },
+    {
+        "id": "microsoft/Fara1.5-27B",
+        "author": null,
+        "downloads": 2316,
+        "likes": 225
+    },
+    {
+        "id": "unsloth/Kimi-K3",
+        "author": null,
+        "downloads": 766,
+        "likes": 177
+    },
+    {
+        "id": "thinkingmachines/Inkling-Small",
+        "author": null,
+        "downloads": 840,
+        "likes": 142
+    },
+    {
+        "id": "Audio8/Audio8-TTS-Preview-0.6b",
+        "author": null,
+        "downloads": 225,
+        "likes": 135
+    },
+    {
+        "id": "microsoft/Mage-VL",
+        "author": null,
+        "downloads": 2951,
+        "likes": 125
+    },
+    {
+        "id": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
+        "author": null,
+        "downloads": 7755,
+        "likes": 148
+    },
+    {
+        "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
+        "author": null,
+        "downloads": 162394,
+        "likes": 245
+    },
+    {
+        "id": "thinkingmachines/Inkling",
+        "author": null,
+        "downloads": 45658,
+        "likes": 1655
+    },
+    {
+        "id": "owensong/Inflect-Nano-v2",
+        "author": null,
+        "downloads": 654,
+        "likes": 119
+    },
+    {
+        "id": "microsoft/VibeVoice-ASR-BitNet",
+        "author": null,
+        "downloads": 3864,
+        "likes": 122
+    },
+    {
+        "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+        "author": null,
+        "downloads": 1803090,
+        "likes": 3193
+    },
+    {
+        "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+        "author": null,
+        "downloads": 697666,
+        "likes": 1116
+    },
+    {
+        "id": "fdtn-ai/antares-1b",
+        "author": null,
+        "downloads": 9820,
+        "likes": 240
+    },
+    {
+        "id": "unsloth/Laguna-S-2.1-GGUF",
+        "author": null,
+        "downloads": 159331,
+        "likes": 260
+    },
+    {
+        "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+        "author": null,
+        "downloads": 248173,
+        "likes": 160
+    },
+    {
+        "id": "XYZAILab/XYZ-Aquila-mini",
+        "author": null,
+        "downloads": 447,
+        "likes": 296
+    },
+    {
+        "id": "Comfy-Org/Mage-Flow",
+        "author": null,
+        "downloads": 44714,
+        "likes": 97
+    },
+    {
+        "id": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
+        "author": null,
+        "downloads": 201,
+        "likes": 97
+    },
+    {
+        "id": "amd/Instella-MoE-16B-A3B-Think",
+        "author": null,
+        "downloads": 1315,
+        "likes": 95
+    },
+    {
+        "id": "ATH-MaaS/OvisOCR2",
+        "author": null,
+        "downloads": 57439,
+        "likes": 354
+    },
+    {
+        "id": "Qwen/Qwen3.6-35B-A3B",
+        "author": null,
+        "downloads": 6119519,
+        "likes": 2595
+    },
+    {
+        "id": "LiquidAI/LFM2.5-Encoder-350M",
+        "author": null,
+        "downloads": 6697,
+        "likes": 79
+    },
+    {
+        "id": "moonshotai/Kimi-K2.7-Code",
+        "author": null,
+        "downloads": 631820,
+        "likes": 1343
+    },
+    {
+        "id": "prism-ml/Bonsai-27B-gguf",
+        "author": null,
+        "downloads": 2455730,
+        "likes": 704
+    },
+    {
+        "id": "LiquidAI/LFM2.5-Encoder-230M",
+        "author": null,
+        "downloads": 7353,
+        "likes": 71
+    },
+    {
+        "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+        "author": null,
+        "downloads": 1025618,
+        "likes": 2527
+    },
+    {
+        "id": "conradlocke/krea2-identity-edit",
+        "author": null,
+        "downloads": 0,
+        "likes": 584
+    },
+    {
+        "id": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
+        "author": null,
+        "downloads": 2058,
+        "likes": 67
+    },
+    {
+        "id": "skt/A.X-K2",
+        "author": null,
+        "downloads": 677,
+        "likes": 66
+    },
+    {
+        "id": "Qwen/Qwen3.6-27B",
+        "author": null,
+        "downloads": 6549533,
+        "likes": 2117
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-V4-Flash",
+        "author": null,
+        "downloads": 2999612,
+        "likes": 1887
+    },
+    {
+        "id": "nvidia/Qwen-Image-Flash",
+        "author": null,
+        "downloads": 509,
+        "likes": 69
+    },
+    {
+        "id": "empero-ai/Qwythos-27B-v1",
+        "author": null,
+        "downloads": 392,
+        "likes": 61
+    },
+    {
+        "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+        "author": null,
+        "downloads": 400218,
+        "likes": 1342
+    },
+    {
+        "id": "XYZAILab/XYZ-Aquila-pro",
+        "author": null,
+        "downloads": 808,
+        "likes": 220
+    },
+    {
+        "id": "FermionResearch/Neutrino-8B",
+        "author": null,
+        "downloads": 4168,
+        "likes": 57
+    },
+    {
+        "id": "nyralabs/CrisperWhisper2.0_large",
+        "author": null,
+        "downloads": 1829,
+        "likes": 55
+    },
+    {
+        "id": "baseten/GLM-5.2-Vision-NVFP4",
+        "author": null,
+        "downloads": 3081,
+        "likes": 139
+    },
+    {
+        "id": "swiss-ai/Apertus-v1.5-70B",
+        "author": null,
+        "downloads": 2255,
+        "likes": 58
+    },
+    {
+        "id": "LGAI-EXAONE/K-EXAONE-2.0-750B-A37B",
+        "author": null,
+        "downloads": 0,
+        "likes": 58
+    },
+    {
+        "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+        "author": null,
+        "downloads": 2996809,
+        "likes": 1220
+    },
+    {
+        "id": "unsloth/Ornith-1.0-35B-GGUF",
+        "author": null,
+        "downloads": 134457,
+        "likes": 122
+    },
+    {
+        "id": "audnai/penclaw-Kimi-K3.0-abliterated-GGUF",
+        "author": null,
+        "downloads": 0,
+        "likes": 121
+    },
+    {
+        "id": "fishaudio/s2-pro",
+        "author": null,
+        "downloads": 282423,
+        "likes": 1164
+    },
+    {
+        "id": "PrunaAI/PrunaVAED",
+        "author": null,
+        "downloads": 0,
+        "likes": 51
+    },
+    {
+        "id": "mindlab-research/Macaron-V1-Tall",
+        "author": null,
+        "downloads": 1020,
+        "likes": 58
+    },
+    {
+        "id": "KRAFTON/A.X-K2-Raon-Speech-21B-A3B",
+        "author": null,
+        "downloads": 518,
+        "likes": 52
+    },
+    {
+        "id": "krea/Krea-2-Turbo",
+        "author": null,
+        "downloads": 167156,
+        "likes": 763
+    },
+    {
+        "id": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+        "author": null,
+        "downloads": 34560,
+        "likes": 574
+    },
+    {
+        "id": "bartowski/Kwaipilot_KAT-Coder-V2.5-Dev-GGUF",
+        "author": null,
+        "downloads": 63182,
+        "likes": 54
+    },
+    {
+        "id": "Lightricks/LTX-2.3",
+        "author": null,
+        "downloads": 2173039,
+        "likes": 1724
+    },
+    {
+        "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+        "author": null,
+        "downloads": 857564,
+        "likes": 1453
+    },
+    {
+        "id": "swiss-ai/Apertus-v1.5-8B",
+        "author": null,
+        "downloads": 2443,
+        "likes": 51
+    },
+    {
+        "id": "black-forest-labs/FLUX.1-dev",
+        "author": null,
+        "downloads": 553315,
+        "likes": 13865
+    },
+    {
+        "id": "google/gemma-4-31B-it",
+        "author": null,
+        "downloads": 12247791,
+        "likes": 3420
+    },
+    {
+        "id": "unsloth/Inkling-Small-GGUF",
+        "author": null,
+        "downloads": 0,
+        "likes": 46
+    },
+    {
+        "id": "Inferact/Kimi-K3-DSpark",
+        "author": null,
+        "downloads": 8304,
+        "likes": 44
+    },
+    {
+        "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+        "author": null,
+        "downloads": 3341722,
+        "likes": 989
+    },
+    {
+        "id": "poolside/Laguna-S-2.1-GGUF",
+        "author": null,
+        "downloads": 97842,
+        "likes": 164
+    },
+    {
+        "id": "pyannote/speaker-diarization-3.1",
+        "author": null,
+        "downloads": 8828060,
+        "likes": 2907
+    },
+    {
+        "id": "lightonai/LightOnOCR-2-1B",
+        "author": null,
+        "downloads": 371403,
+        "likes": 779
+    },
+    {
+        "id": "nvidia/Cosmos3-Edge",
+        "author": null,
+        "downloads": 39147,
+        "likes": 146
+    },
+    {
+        "id": "circlestone-labs/Anima",
+        "author": null,
+        "downloads": 838273,
+        "likes": 1985
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-V4-Pro",
+        "author": null,
+        "downloads": 1650651,
+        "likes": 5356
+    },
+    {
+        "id": "inclusionAI/LLaDA2.2-flash",
+        "author": null,
+        "downloads": 585,
+        "likes": 68
+    },
+    {
+        "id": "froggeric/Qwen-Fixed-Chat-Templates",
+        "author": null,
+        "downloads": 0,
+        "likes": 1007
+    },
+    {
+        "id": "Alissonerdx/LTX-Best-Face-ID",
+        "author": null,
+        "downloads": 0,
+        "likes": 289
+    },
+    {
+        "id": "PaddlePaddle/HPD-Parsing",
+        "author": null,
+        "downloads": 1671,
+        "likes": 80
+    },
+    {
+        "id": "nvidia/LocateAnything-3B",
+        "author": null,
+        "downloads": 923010,
+        "likes": 2816
+    },
+    {
+        "id": "ProCreations/grug-27b",
+        "author": null,
+        "downloads": 1376,
+        "likes": 83
+    },
+    {
+        "id": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+        "author": null,
+        "downloads": 2483603,
+        "likes": 1847
+    },
+    {
+        "id": "poolside/Laguna-XS-2.1",
+        "author": null,
+        "downloads": 29567,
+        "likes": 194
+    },
+    {
+        "id": "poolside/Laguna-S-2.1-NVFP4",
+        "author": null,
+        "downloads": 221502,
+        "likes": 158
+    },
+    {
+        "id": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+        "author": null,
+        "downloads": 1014402,
+        "likes": 968
+    },
+    {
+        "id": "thinkingmachines/Inkling-Small-NVFP4",
+        "author": null,
+        "downloads": 2519,
+        "likes": 35
+    },
+    {
+        "id": "tvall43/Qwen3.6-14B-A3B-FableVibes-GGUF",
+        "author": null,
+        "downloads": 93295,
+        "likes": 156
+    },
+    {
+        "id": "inference-optimization/Kimi-K3-0.40B",
+        "author": null,
+        "downloads": 14080,
+        "likes": 37
+    },
+    {
+        "id": "nota-ai/Solar-Open2-250B-Nota-INT4",
+        "author": null,
+        "downloads": 932,
+        "likes": 39
+    },
+    {
+        "id": "microsoft/TRELLIS.2-4B",
+        "author": null,
+        "downloads": 1485146,
+        "likes": 1049
+    },
+    {
+        "id": "hexgrad/Kokoro-82M",
+        "author": null,
+        "downloads": 11092465,
+        "likes": 6614
+    },
+    {
+        "id": "facebook/sam3",
+        "author": null,
+        "downloads": 2175339,
+        "likes": 2560
+    },
+    {
+        "id": "krea/Krea-2-Raw",
+        "author": null,
+        "downloads": 153500,
+        "likes": 410
+    },
+    {
+        "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+        "author": null,
+        "downloads": 4417107,
+        "likes": 589
+    },
+    {
+        "id": "nota-ai/Solar-Open2-250B-Nota-INT4-GlobalPruned",
+        "author": null,
+        "downloads": 936,
+        "likes": 42
+    },
+    {
+        "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+        "author": null,
+        "downloads": 667159,
+        "likes": 950
+    },
+    {
+        "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
+        "author": null,
+        "downloads": 254461,
+        "likes": 666
+    },
+    {
+        "id": "Motif-Technologies/Motif-3-Beta",
+        "author": null,
+        "downloads": 3854,
+        "likes": 207
+    },
+    {
+        "id": "LGAI-EXAONE/K-EXAONE-2.0-750B-A37B-FP8",
+        "author": null,
+        "downloads": 0,
+        "likes": 30
+    },
+    {
+        "id": "RuneXX/LTX-2.3-Workflows",
+        "author": null,
+        "downloads": 0,
+        "likes": 820
+    },
+    {
+        "id": "SulphurAI/Sulphur-2-base",
+        "author": null,
+        "downloads": 428061,
+        "likes": 1941
+    },
+    {
+        "id": "bottlecapai/ThinkingCap-Qwen3.6-27B-GGUF",
+        "author": null,
+        "downloads": 382641,
+        "likes": 212
+    },
+    {
+        "id": "acvlab/ABot-World-0-5B-LF",
+        "author": null,
+        "downloads": 1180,
+        "likes": 66
+    },
+    {
+        "id": "feyninc/FeyNobg",
+        "author": null,
+        "downloads": 834,
+        "likes": 29
+    },
+    {
+        "id": "Jackrong/Qwopus3.6-27B-Fusion-GGUF",
+        "author": null,
+        "downloads": 706,
+        "likes": 28
+    },
+    {
+        "id": "lvladikov/SeedVR2-1.4B",
+        "author": null,
+        "downloads": 0,
+        "likes": 28
+    },
+    {
+        "id": "black-forest-labs/FLUX.2-klein-9B",
+        "author": null,
+        "downloads": 336897,
+        "likes": 1140
+    },
+    {
+        "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+        "author": null,
+        "downloads": 497421,
+        "likes": 1835
+    },
+    {
+        "id": "google/gemma-4-12B-it",
+        "author": null,
+        "downloads": 2976939,
+        "likes": 1375
+    },
+    {
+        "id": "nvidia/Qwen3.6-35B-A3B-NVFP4",
+        "author": null,
+        "downloads": 10166794,
+        "likes": 522
+    },
+    {
+        "id": "Comfy-Org/Krea-2",
+        "author": null,
+        "downloads": 10,
+        "likes": 390
+    },
+    {
+        "id": "empero-ai/Qwythos-27B-v1-GGUF",
+        "author": null,
+        "downloads": 3074,
+        "likes": 28
+    },
+    {
+        "id": "GrEarl/Kimi-K3-GGUF",
+        "author": null,
+        "downloads": 3429,
+        "likes": 28
+    },
+    {
+        "id": "BAAI/bge-m3",
+        "author": null,
+        "downloads": 35229091,
+        "likes": 3293
+    },
+    {
+        "id": "Qwen/Qwen3-8B",
+        "author": null,
+        "downloads": 16046080,
+        "likes": 1261
+    },
+    {
+        "id": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+        "author": null,
+        "downloads": 201186,
+        "likes": 349
+    },
+    {
+        "id": "openbmb/MiniCPM5-1B",
+        "author": null,
+        "downloads": 701873,
+        "likes": 1024
+    },
+    {
+        "id": "nota-ai/Solar-Open2-250B-Nota-NVFP4-GlobalPruned",
+        "author": null,
+        "downloads": 252,
+        "likes": 34
+    },
+    {
+        "id": "owao/Nanbeige4.2-3B-GGUF",
+        "author": null,
+        "downloads": 39464,
+        "likes": 42
+    },
+    {
+        "id": "LGAI-EXAONE/K-EXAONE-2.0-750B-A37B-NVFP4",
+        "author": null,
+        "downloads": 0,
+        "likes": 27
+    },
+    {
+        "id": "sentence-transformers/all-MiniLM-L6-v2",
+        "author": null,
+        "downloads": 254507269,
+        "likes": 5147
+    },
+    {
+        "id": "meta-llama/Llama-3.1-8B-Instruct",
+        "author": null,
+        "downloads": 7927807,
+        "likes": 6432
+    },
+    {
+        "id": "unsloth/GLM-5.2-GGUF",
+        "author": null,
+        "downloads": 297217,
+        "likes": 615
+    },
+    {
+        "id": "FINAL-Bench/POCKET-35B-GGUF",
+        "author": null,
+        "downloads": 12229,
+        "likes": 60
+    },
+    {
+        "id": "pyannote/speaker-diarization-community-1",
+        "author": null,
+        "downloads": 4904724,
+        "likes": 891
+    },
+    {
+        "id": "openai/gpt-oss-120b",
+        "author": null,
+        "downloads": 4303156,
+        "likes": 5055
+    },
+    {
+        "id": "Qwen/Qwen-Image-Edit-2511",
+        "author": null,
+        "downloads": 227994,
+        "likes": 1215
+    },
+    {
+        "id": "Qwen/Qwen3-ASR-1.7B",
+        "author": null,
+        "downloads": 1970425,
+        "likes": 965
+    },
+    {
+        "id": "MiniMaxAI/MiniMax-M3",
+        "author": null,
+        "downloads": 156399,
+        "likes": 1389
+    },
+    {
+        "id": "BAAI/AREX-Turbo",
+        "author": null,
+        "downloads": 499,
+        "likes": 30
+    },
+    {
+        "id": "microsoft/Mage-ViT",
+        "author": null,
+        "downloads": 5900,
+        "likes": 24
+    },
+    {
+        "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-MTP",
+        "author": null,
+        "downloads": 1193,
+        "likes": 24
+    },
+    {
+        "id": "black-forest-labs/FLUX.2-dev",
+        "author": null,
+        "downloads": 1361289,
+        "likes": 1968
+    },
+    {
+        "id": "lkzd7/WAN2.2_LoraSet_NSFW",
+        "author": null,
+        "downloads": 0,
+        "likes": 600
+    },
+    {
+        "id": "k2-fsa/OmniVoice",
+        "author": null,
+        "downloads": 859784,
+        "likes": 1223
+    },
+    {
+        "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+        "author": null,
+        "downloads": 244797,
+        "likes": 2783
+    },
+    {
+        "id": "poolside/Laguna-XS-2.1-GGUF",
+        "author": null,
+        "downloads": 47926,
+        "likes": 78
+    },
+    {
+        "id": "Cseti/LTX2.3-22B_IC-LoRA-CrossView-Warp",
+        "author": null,
+        "downloads": 0,
+        "likes": 23
+    },
+    {
+        "id": "gbuzhf/KAT-Coder-V2.5-Dev-APEX-MTP-GGUF",
+        "author": null,
+        "downloads": 13983,
+        "likes": 24
+    },
+    {
+        "id": "ReadyArt/gemma-4-31B-it-scotoma",
+        "author": null,
+        "downloads": 1776,
+        "likes": 23
+    },
+    {
+        "id": "LGAI-EXAONE/K-EXAONE-2.0-750B-A37B-DSpark",
+        "author": null,
+        "downloads": 0,
+        "likes": 24
+    },
+    {
+        "id": "openai/whisper-large-v3",
+        "author": null,
+        "downloads": 5855853,
+        "likes": 6010
+    },
+    {
+        "id": "Qwen/Qwen3-0.6B",
+        "author": null,
+        "downloads": 28544146,
+        "likes": 1467
+    },
+    {
+        "id": "Kijai/LTX2.3_comfy",
+        "author": null,
+        "downloads": 999912,
+        "likes": 560
+    },
+    {
+        "id": "google/gemma-4-26B-A4B-it",
+        "author": null,
+        "downloads": 12630685,
+        "likes": 1342
+    },
+    {
+        "id": "unsloth/gemma-4-12B-it-qat-GGUF",
+        "author": null,
+        "downloads": 245792,
+        "likes": 380
+    },
+    {
+        "id": "nvidia/Qwen3.6-27B-NVFP4",
+        "author": null,
+        "downloads": 2140354,
+        "likes": 412
+    },
+    {
+        "id": "microsoft/Fara1.5-4B",
+        "author": null,
+        "downloads": 3379,
+        "likes": 30
+    },
+    {
+        "id": "mudler/KAT-Coder-V2.5-Dev-APEX-GGUF",
+        "author": null,
+        "downloads": 40998,
+        "likes": 23
+    },
+    {
+        "id": "FINAL-Bench/POCKET-26B-GGUF",
+        "author": null,
+        "downloads": 4641,
+        "likes": 36
+    },
+    {
+        "id": "RadixArk/Kimi-K3-DSpark",
+        "author": null,
+        "downloads": 98402,
+        "likes": 23
+    },
+    {
+        "id": "black-forest-labs/FLUX.1-schnell",
+        "author": null,
+        "downloads": 221821,
+        "likes": 5451
+    },
+    {
+        "id": "facebook/dinov3-vitl16-pretrain-lvd1689m",
+        "author": null,
+        "downloads": 712032,
+        "likes": 461
+    },
+    {
+        "id": "Qwen/Qwen3.5-9B",
+        "author": null,
+        "downloads": 11638621,
+        "likes": 1776
+    },
+    {
+        "id": "google/gemma-4-E4B-it",
+        "author": null,
+        "downloads": 5848372,
+        "likes": 1431
+    },
+    {
+        "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+        "author": null,
+        "downloads": 644358,
+        "likes": 785
+    },
+    {
+        "id": "nvidia/GLM-5.2-NVFP4",
+        "author": null,
+        "downloads": 1631197,
+        "likes": 302
+    },
+    {
+        "id": "jcbtc/Laguna-S-2.1-Chadrock-ROCmFP4-StrixKVSpine-V4-GGUF",
+        "author": null,
+        "downloads": 2288,
+        "likes": 22
+    },
+    {
+        "id": "OpenMOSS-Team/OmniVAE",
+        "author": null,
+        "downloads": 0,
+        "likes": 21
+    },
+    {
+        "id": "FuzzPuppy/LTX-2.3-Black-Magic-LoRA",
+        "author": null,
+        "downloads": 10,
+        "likes": 21
+    },
+    {
+        "id": "pyannote/segmentation-3.0",
+        "author": null,
+        "downloads": 6489731,
+        "likes": 1411
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1",
+        "author": null,
+        "downloads": 9473051,
+        "likes": 13525
+    },
+    {
+        "id": "openai/gpt-oss-20b",
+        "author": null,
+        "downloads": 8305515,
+        "likes": 4863
+    },
+    {
+        "id": "bosonai/higgs-tts-3-4b",
+        "author": null,
+        "downloads": 383830,
+        "likes": 685
+    },
+    {
+        "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
+        "author": null,
+        "downloads": 416762,
+        "likes": 349
+    },
+    {
+        "id": "google/tabfm-1.0.0-pytorch",
+        "author": null,
+        "downloads": 44664,
+        "likes": 425
+    },
+    {
+        "id": "RudySen/Krea2-realism-V2",
+        "author": null,
+        "downloads": 25308,
+        "likes": 115
+    },
+    {
+        "id": "jinaai/jina-reranker-v3.5",
+        "author": null,
+        "downloads": 880,
+        "likes": 20
+    },
+    {
+        "id": "DavidAU/Qwen3.6-40B-Grand-Intelligence-Six-711-717-raw",
+        "author": null,
+        "downloads": 3,
+        "likes": 32
+    },
+    {
+        "id": "Goekdeniz-Guelmez/JOSIE-2-4B-Preview",
+        "author": null,
+        "downloads": 1018,
+        "likes": 20
+    },
+    {
+        "id": "google/gemma-4-E2B-it",
+        "author": null,
+        "downloads": 3994149,
+        "likes": 856
+    },
+    {
+        "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
+        "author": null,
+        "downloads": 1457247,
+        "likes": 1010
+    },
+    {
+        "id": "unsloth/Qwen3.6-27B-GGUF",
+        "author": null,
+        "downloads": 716515,
+        "likes": 915
+    },
+    {
+        "id": "tencent/Hy3",
+        "author": null,
+        "downloads": 22064,
+        "likes": 893
+    },
+    {
+        "id": "empero-ai/Qwythos-9B-v2-GGUF",
+        "author": null,
+        "downloads": 462038,
+        "likes": 231
+    },
+    {
+        "id": "LiquidAI/LFM2.5-Encoder-350M-PII-Detector",
+        "author": null,
+        "downloads": 299,
+        "likes": 18
+    },
+    {
+        "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+        "author": null,
+        "downloads": 90802,
+        "likes": 892
+    },
+    {
+        "id": "prism-ml/Bonsai-27B-mlx-1bit",
+        "author": null,
+        "downloads": 43458,
+        "likes": 193
+    },
+    {
+        "id": "mateogrgic/GLM-5.2-colibri-int4-with-int8-mtp",
+        "author": null,
+        "downloads": 12338,
+        "likes": 133
+    },
+    {
+        "id": "AliveAi/Krea-2-Edit-Outfit-Transfer",
+        "author": null,
+        "downloads": 5349,
+        "likes": 53
+    },
+    {
+        "id": "skt/A.X-K2-ALM",
+        "author": null,
+        "downloads": 0,
+        "likes": 18
+    },
+    {
+        "id": "ReadyArt/gemma-4-31B-it-scotoma-GGUF",
+        "author": null,
+        "downloads": 7053,
+        "likes": 18
+    },
+    {
+        "id": "GrEarl/Kimi-K3-GGUF-IQ1_S",
+        "author": null,
+        "downloads": 2445,
+        "likes": 20
+    },
+    {
+        "id": "openai/whisper-large-v3-turbo",
+        "author": null,
+        "downloads": 8616744,
+        "likes": 3205
+    },
+    {
+        "id": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+        "author": null,
+        "downloads": 2453373,
+        "likes": 846
+    },
+    {
+        "id": "nvidia/parakeet-tdt-0.6b-v3",
+        "author": null,
+        "downloads": 184404,
+        "likes": 1024
+    },
+    {
+        "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+        "author": null,
+        "downloads": 511920,
+        "likes": 404
+    },
+    {
+        "id": "microsoft/Fara1.5-9B",
+        "author": null,
+        "downloads": 13162,
+        "likes": 31
+    },
+    {
+        "id": "EpistemeAI/Reasoning-Medical-27B",
+        "author": null,
+        "downloads": 456,
+        "likes": 23
+    },
+    {
+        "id": "deepreinforce-ai/Ornith-1.0-35B",
+        "author": null,
+        "downloads": 2530015,
+        "likes": 457
+    },
+    {
+        "id": "deepreinforce-ai/Ornith-1.0-9B",
+        "author": null,
+        "downloads": 2022419,
+        "likes": 500
+    },
+    {
+        "id": "Qwen/Qwen-AgentWorld-35B-A3B",
+        "author": null,
+        "downloads": 90492,
+        "likes": 644
+    },
+    {
+        "id": "unsloth/DeepSeek-V4-Flash-GGUF",
+        "author": null,
+        "downloads": 125222,
+        "likes": 229
+    },
+    {
+        "id": "mastouri/GLM-5.2-colibri-int4-g64-with-int8-mtp",
+        "author": null,
+        "downloads": 1750,
+        "likes": 22
+    },
+    {
+        "id": "badtheorylabs/BTL-3",
+        "author": null,
+        "downloads": 189,
+        "likes": 69
+    },
+    {
+        "id": "ai9stars/G9v3-3B",
+        "author": null,
+        "downloads": 996,
+        "likes": 24
+    },
+    {
+        "id": "Lightricks/LTX-2.3-22b-IC-LoRA-Relight",
+        "author": null,
+        "downloads": 217,
+        "likes": 18
+    },
+    {
+        "id": "Tongyi-MAI/Z-Image-Turbo",
+        "author": null,
+        "downloads": 1138299,
+        "likes": 5055
+    },
+    {
+        "id": "Qwen/Qwen3.5-4B",
+        "author": null,
+        "downloads": 6332649,
+        "likes": 772
+    },
+    {
+        "id": "facebook/sam3.1",
+        "author": null,
+        "downloads": 85481,
+        "likes": 487
+    },
+    {
+        "id": "unsloth/gemma-4-12b-it-GGUF",
+        "author": null,
+        "downloads": 626873,
+        "likes": 777
+    },
+    {
+        "id": "Audio8/ARK-ASR-3B",
+        "author": null,
+        "downloads": 6851,
+        "likes": 71
+    },
+    {
+        "id": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+        "author": null,
+        "downloads": 27901,
+        "likes": 299
+    },
+    {
+        "id": "LiquidAI/LFM2.5-Encoder-350M-Prompt-Router",
+        "author": null,
+        "downloads": 336,
+        "likes": 16
+    },
+    {
+        "id": "audio-cpp/audio.cpp-gguf",
+        "author": null,
+        "downloads": 22517,
+        "likes": 23
+    },
+    {
+        "id": "DreamFast/Qwen3-VL-4b-Heretic-ComfyUI",
+        "author": null,
+        "downloads": 0,
+        "likes": 48
+    },
+    {
+        "id": "fdtn-ai/antares-350m",
+        "author": null,
+        "downloads": 1545,
+        "likes": 66
+    },
+    {
+        "id": "nlpai-lab/LAMAR-600m",
+        "author": null,
+        "downloads": 247,
+        "likes": 16
+    },
+    {
+        "id": "coqui/XTTS-v2",
+        "author": null,
+        "downloads": 9187102,
+        "likes": 3699
+    },
+    {
+        "id": "Cactus-Compute/needle",
+        "author": null,
+        "downloads": 1329,
+        "likes": 317
+    },
+    {
+        "id": "moonshotai/Kimi-K2.6",
+        "author": null,
+        "downloads": 841948,
+        "likes": 1581
+    },
+    {
+        "id": "XiaomiMiMo/MiMo-V2.5",
+        "author": null,
+        "downloads": 339077,
+        "likes": 377
+    },
+    {
+        "id": "ponpoke/flux2-klein-9b-uncensored-text-encoder",
+        "author": null,
+        "downloads": 26806,
+        "likes": 343
+    },
+    {
+        "id": "SC117/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-APEX-GGUF",
+        "author": null,
+        "downloads": 84550,
+        "likes": 81
+    },
+    {
+        "id": "HauhauCS/Gemma4-26B-A4B-QAT-Uncensored-HauhauCS-Balanced-MTP",
+        "author": null,
+        "downloads": 118199,
+        "likes": 138
+    },
+    {
+        "id": "malcolmrey/krea2",
+        "author": null,
+        "downloads": 0,
+        "likes": 69
+    },
+    {
+        "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+        "author": null,
+        "downloads": 248557,
+        "likes": 176
+    },
+    {
+        "id": "unsloth/Ornith-1.0-9B-GGUF",
+        "author": null,
+        "downloads": 68187,
+        "likes": 42
+    },
+    {
+        "id": "Lightricks/LTX-2.3-22b-IC-LoRA-Clean-Plate",
+        "author": null,
+        "downloads": 1605,
+        "likes": 87
+    },
+    {
+        "id": "mindlab-research/Macaron-V1-Venti",
+        "author": null,
+        "downloads": 413,
+        "likes": 47
+    },
+    {
+        "id": "badtheorylabs/BTL-3-Compact",
+        "author": null,
+        "downloads": 2304,
+        "likes": 36
+    },
+    {
+        "id": "ProCreations/grug-3b",
+        "author": null,
+        "downloads": 314,
+        "likes": 15
+    },
+    {
+        "id": "AesSedai/MiniMax-M3-GGUF",
+        "author": null,
+        "downloads": 1338,
+        "likes": 15
+    },
+    {
+        "id": "bench-labs/PixelModel-v5",
+        "author": null,
+        "downloads": 2307,
+        "likes": 15
+    },
+    {
+        "id": "microsoft/VibeVoice-ASR",
+        "author": null,
+        "downloads": 693984,
+        "likes": 1247
+    },
+    {
+        "id": "nota-ai/Solar-Open-100B-NotaMoEQuant-NVFP4",
+        "author": null,
+        "downloads": 188,
+        "likes": 22
+    },
+    {
+        "id": "MuScriptor/muscriptor-large",
+        "author": null,
+        "downloads": 3355,
+        "likes": 113
+    },
+    {
+        "id": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+        "author": null,
+        "downloads": 34638,
+        "likes": 158
+    },
+    {
+        "id": "nvidia/Nemotron-3-Embed-1B-BF16",
+        "author": null,
+        "downloads": 399655,
+        "likes": 123
+    },
+    {
+        "id": "openbmb/MiniCPM-RobotManip",
+        "author": null,
+        "downloads": 914,
+        "likes": 180
+    },
+    {
+        "id": "openbmb/MiniCPM-RobotTrack",
+        "author": null,
+        "downloads": 503,
+        "likes": 131
+    },
+    {
+        "id": "Nanbeige/Nanbeige4.2-3B-Base",
+        "author": null,
+        "downloads": 2297,
+        "likes": 49
+    },
+    {
+        "id": "AtomicChat/Kimi-K3-GGUF",
+        "author": null,
+        "downloads": 4892,
+        "likes": 14
+    },
+    {
+        "id": "Qwen/Qwen2.5-Coder-7B-Instruct-GGUF",
+        "author": null,
+        "downloads": 200486,
+        "likes": 357
+    },
+    {
+        "id": "google/embeddinggemma-300m",
+        "author": null,
+        "downloads": 1945730,
+        "likes": 1814
+    },
+    {
+        "id": "black-forest-labs/FLUX.2-klein-9b-fp8",
+        "author": null,
+        "downloads": 44859,
+        "likes": 309
+    },
+    {
+        "id": "Qwen/Qwen3-Coder-Next",
+        "author": null,
+        "downloads": 658639,
+        "likes": 1563
+    },
+    {
+        "id": "unsloth/LTX-2.3-GGUF",
+        "author": null,
+        "downloads": 271130,
+        "likes": 536
+    },
+    {
+        "id": "google/diffusiongemma-26B-A4B-it",
+        "author": null,
+        "downloads": 1934477,
+        "likes": 1156
+    },
+    {
+        "id": "fal/LTX-2.3-3DREAL-LoRA",
+        "author": null,
+        "downloads": 0,
+        "likes": 246
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+        "author": null,
+        "downloads": 42621,
+        "likes": 531
+    },
+    {
+        "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+        "author": null,
+        "downloads": 325452,
+        "likes": 312
+    },
+    {
+        "id": "neuphonic/neutts-2e",
+        "author": null,
+        "downloads": 7684,
+        "likes": 33
+    },
+    {
+        "id": "WaveCut/Nanbeige4.2-3B-heretic-GGUF",
+        "author": null,
+        "downloads": 7348,
+        "likes": 14
+    },
+    {
+        "id": "gguf-org/mageflow-gguf",
+        "author": null,
+        "downloads": 3247,
+        "likes": 14
+    },
+    {
+        "id": "pipenetwork/Kimi-K3-REAP80-MLX-mxfp4-q8",
+        "author": null,
+        "downloads": 4791,
+        "likes": 13
+    },
+    {
+        "id": "openai-community/gpt2",
+        "author": null,
+        "downloads": 13683436,
+        "likes": 3382
+    },
+    {
+        "id": "stabilityai/stable-fast-3d",
+        "author": null,
+        "downloads": 19166,
+        "likes": 857
+    },
+    {
+        "id": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+        "author": null,
+        "downloads": 1649924,
+        "likes": 1218
+    },
+    {
+        "id": "AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUF",
+        "author": null,
+        "downloads": 991,
+        "likes": 274
+    },
+    {
+        "id": "tencent/Hunyuan3D-2.1",
+        "author": null,
+        "downloads": 40761,
+        "likes": 1103
+    },
+    {
+        "id": "NeoQuasar/Kronos-base",
+        "author": null,
+        "downloads": 1468335,
+        "likes": 219
+    },
+    {
+        "id": "Qwen/Qwen3-VL-8B-Instruct",
+        "author": null,
+        "downloads": 5088807,
+        "likes": 1021
+    },
+    {
+        "id": "unsloth/Qwen3.5-9B-GGUF",
+        "author": null,
+        "downloads": 984557,
+        "likes": 799
+    },
+    {
+        "id": "unsloth/gemma-4-31B-it-GGUF",
+        "author": null,
+        "downloads": 488458,
+        "likes": 559
+    },
+    {
+        "id": "openbmb/VoxCPM2",
+        "author": null,
+        "downloads": 1019206,
+        "likes": 1505
+    },
+    {
+        "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Balanced",
+        "author": null,
+        "downloads": 93635,
+        "likes": 180
+    },
+    {
+        "id": "ideogram-ai/ideogram-4-fp8",
+        "author": null,
+        "downloads": 45264,
+        "likes": 723
+    },
+    {
+        "id": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4",
+        "author": null,
+        "downloads": 256517,
+        "likes": 272
+    },
+    {
+        "id": "pcunwa/BS-Roformer-Leap",
+        "author": null,
+        "downloads": 0,
+        "likes": 22
+    },
+    {
+        "id": "InternScience/Agents-A1",
+        "author": null,
+        "downloads": 44612,
+        "likes": 616
+    },
+    {
+        "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
+        "author": null,
+        "downloads": 142794,
+        "likes": 255
+    },
+    {
+        "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
+        "author": null,
+        "downloads": 681078,
+        "likes": 210
+    },
+    {
+        "id": "pmczip/Krea2Raw_Loras",
+        "author": null,
+        "downloads": 11909,
+        "likes": 40
+    },
+    {
+        "id": "mgwr/M87",
+        "author": null,
+        "downloads": 6693,
+        "likes": 205
+    },
+    {
+        "id": "Baragi-AI/Munche-768",
+        "author": null,
+        "downloads": 373,
+        "likes": 16
+    },
+    {
+        "id": "openbmb/MiniCPM-o-4_5",
+        "author": null,
+        "downloads": 660917,
+        "likes": 1450
+    },
+    {
+        "id": "Virtue-AI-HUB/VulnLLM-R-7B",
+        "author": null,
+        "downloads": 50575,
+        "likes": 234
+    },
+    {
+        "id": "Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+        "author": null,
+        "downloads": 5346358,
+        "likes": 809
+    },
+    {
+        "id": "nota-ai/Solar-Open-100B-Nota-FP8",
+        "author": null,
+        "downloads": 74,
+        "likes": 45
+    },
+    {
+        "id": "unsloth/Qwen3-Coder-Next-GGUF",
+        "author": null,
+        "downloads": 202122,
+        "likes": 788
+    },
+    {
+        "id": "Qwen/Qwen3.5-0.8B",
+        "author": null,
+        "downloads": 3002542,
+        "likes": 644
+    },
+    {
+        "id": "google/gemma-4-E2B",
+        "author": null,
+        "downloads": 99024,
+        "likes": 415
+    },
+    {
+        "id": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
+        "author": null,
+        "downloads": 144579,
+        "likes": 453
+    },
+    {
+        "id": "DavidAU/Qwen3.5-9B-Claude-4.6-HighIQ-THINKING-HERETIC-UNCENSORED",
+        "author": null,
+        "downloads": 89709,
+        "likes": 193
+    },
+    {
+        "id": "google/gemma-4-26B-A4B",
+        "author": null,
+        "downloads": 900109,
+        "likes": 360
+    },
+    {
+        "id": "datalab-to/chandra-ocr-2",
+        "author": null,
+        "downloads": 3034701,
+        "likes": 464
+    },
+    {
+        "id": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
+        "author": null,
+        "downloads": 413,
+        "likes": 17
+    },
+    {
+        "id": "unsloth/gemma-4-E4B-it-GGUF",
+        "author": null,
+        "downloads": 513491,
+        "likes": 570
+    },
+    {
+        "id": "nvidia/Riva-Translate-4B-Instruct-v2",
+        "author": null,
+        "downloads": 496,
+        "likes": 13
+    },
+    {
+        "id": "unsloth/Qwen3.6-27B-NVFP4",
+        "author": null,
+        "downloads": 2913395,
+        "likes": 260
+    },
+    {
+        "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking",
+        "author": null,
+        "downloads": 21451,
+        "likes": 133
+    },
+    {
+        "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
+        "author": null,
+        "downloads": 84718,
+        "likes": 238
+    },
+    {
+        "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
+        "author": null,
+        "downloads": 254791,
+        "likes": 248
+    },
+    {
+        "id": "Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients",
+        "author": null,
+        "downloads": 9341,
+        "likes": 161
+    },
+    {
+        "id": "zandenAI/GLM-5.2-FP8-Uncensored",
+        "author": null,
+        "downloads": 4411,
+        "likes": 80
+    },
+    {
+        "id": "unsloth/Qwen-AgentWorld-35B-A3B-GGUF",
+        "author": null,
+        "downloads": 643177,
+        "likes": 219
+    },
+    {
+        "id": "wikeeyang/Flux2-Klein-9B-True-V3",
+        "author": null,
+        "downloads": 39470,
+        "likes": 118
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-V4-Flash-DSpark",
+        "author": null,
+        "downloads": 462651,
+        "likes": 228
+    },
+    {
+        "id": "eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B",
+        "author": null,
+        "downloads": 0,
+        "likes": 153
+    },
+    {
+        "id": "Wan-AI/Wan-Dancer-14B",
+        "author": null,
+        "downloads": 4243,
+        "likes": 176
+    },
+    {
+        "id": "Winnougan/INT4-Convrot-Comfy-Models",
+        "author": null,
+        "downloads": 0,
+        "likes": 57
+    },
+    {
+        "id": "AngelSlim/Hy3-GGUF",
+        "author": null,
+        "downloads": 424434,
+        "likes": 175
+    },
+    {
+        "id": "nineninesix/diamond-1.0",
+        "author": null,
+        "downloads": 0,
+        "likes": 78
+    },
+    {
+        "id": "joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgical",
+        "author": null,
+        "downloads": 3684,
+        "likes": 31
+    },
+    {
+        "id": "nvidia/Cosmos-H-Dreams",
+        "author": null,
+        "downloads": 184,
+        "likes": 11
+    },
+    {
+        "id": "knowledgator/gliner-stream-pii-v1.0",
+        "author": null,
+        "downloads": 96,
+        "likes": 12
+    },
+    {
+        "id": "Playtime-AI/LTX-2.3-Sydney_Sweeney",
+        "author": null,
+        "downloads": 0,
+        "likes": 13
+    },
+    {
+        "id": "PassingByPixels/Qwen3.6-27B-Architect-Polaris2-Fable-B-F451-NVFP4",
+        "author": null,
+        "downloads": 2050,
+        "likes": 11
+    },
+    {
+        "id": "philipjohnbasile/Qwen3.6-27B-Fable-Fusion-711-MTPLX-8bit",
+        "author": null,
+        "downloads": 1664,
+        "likes": 11
+    },
+    {
+        "id": "SC117/Laguna-S-2.1-Uncensored-APEX-GGUF",
+        "author": null,
+        "downloads": 3801,
+        "likes": 11
+    },
+    {
+        "id": "xmanii/Ava-82M",
+        "author": null,
+        "downloads": 142,
+        "likes": 13
+    },
+    {
+        "id": "JanKanta/ltx-2.3-22b-ic-lora-lens_remover",
+        "author": null,
+        "downloads": 0,
+        "likes": 11
+    },
+    {
+        "id": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+        "author": null,
+        "downloads": 2509848,
+        "likes": 1708
+    },
+    {
+        "id": "BAAI/bge-reranker-v2-m3",
+        "author": null,
+        "downloads": 19095387,
+        "likes": 1117
+    },
+    {
+        "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+        "author": null,
+        "downloads": 1763305,
+        "likes": 4776
+    },
+    {
+        "id": "meta-llama/Prompt-Guard-86M",
+        "author": null,
+        "downloads": 4485805,
+        "likes": 381
+    },
+    {
+        "id": "Qwen/Qwen2.5-7B-Instruct",
+        "author": null,
+        "downloads": 12227435,
+        "likes": 1449
+    },
+    {
+        "id": "agents-course/notebooks",
+        "author": null,
+        "downloads": 0,
+        "likes": 705
+    },
+    {
+        "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+        "author": null,
+        "downloads": 1535595,
+        "likes": 1185
+    },
+    {
+        "id": "unsloth/gpt-oss-20b-GGUF",
+        "author": null,
+        "downloads": 557394,
+        "likes": 753
+    },
+    {
+        "id": "Alissonerdx/BFS-Best-Face-Swap",
+        "author": null,
+        "downloads": 109465,
+        "likes": 717
+    },
+    {
+        "id": "unsloth/FLUX.2-klein-9B-GGUF",
+        "author": null,
+        "downloads": 86871,
+        "likes": 290
+    },
+    {
+        "id": "nota-ai/Solar-Open-100B-NotaMoEQuant-Int4",
+        "author": null,
+        "downloads": 336,
+        "likes": 61
+    },
+    {
+        "id": "zai-org/GLM-OCR",
+        "author": null,
+        "downloads": 3654022,
+        "likes": 1956
+    },
+    {
+        "id": "unsloth/Qwen3.5-4B-GGUF",
+        "author": null,
+        "downloads": 1171335,
+        "likes": 353
+    },
+    {
+        "id": "facebook/VGGT-Omega",
+        "author": null,
+        "downloads": 0,
+        "likes": 217
+    },
+    {
+        "id": "mistralai/Mistral-Medium-3.5-128B",
+        "author": null,
+        "downloads": 151285,
+        "likes": 413
+    },
+    {
+        "id": "HauhauCS/Gemma-4-E2B-Uncensored-HauhauCS-Aggressive",
+        "author": null,
+        "downloads": 122228,
+        "likes": 272
+    },
+    {
+        "id": "ibm-granite/granite-4.1-8b",
+        "author": null,
+        "downloads": 3857201,
+        "likes": 237
+    },
+    {
+        "id": "MahmoodLab/KRONOS2",
+        "author": null,
+        "downloads": 307,
+        "likes": 15
+    },
+    {
+        "id": "antirez/deepseek-v4-gguf",
+        "author": null,
+        "downloads": 682599,
+        "likes": 349
+    },
+    {
+        "id": "google/gemma-4-31B-it-qat-q4_0-gguf",
+        "author": null,
+        "downloads": 73014,
+        "likes": 115
+    },
+    {
+        "id": "microsoft/MagenticBrain",
+        "author": null,
+        "downloads": 512,
+        "likes": 22
+    },
+    {
+        "id": "meituan-longcat/LongCat-Video-Avatar-1.5",
+        "author": null,
+        "downloads": 1657,
+        "likes": 692
+    },
+    {
+        "id": "poolside/Laguna-S-2.1-INT4",
+        "author": null,
+        "downloads": 113279,
+        "likes": 25
+    },
+    {
+        "id": "huihui-ai/Huihui-ThinkingCap-Qwen3.6-27B-abliterated",
+        "author": null,
+        "downloads": 40595,
+        "likes": 40
+    },
+    {
+        "id": "egeorcun/lucida",
+        "author": null,
+        "downloads": 4011,
+        "likes": 48
+    },
+    {
+        "id": "Trelis/tiron",
+        "author": null,
+        "downloads": 1025,
+        "likes": 27
+    },
+    {
+        "id": "Hikari07jp/Ternary-Bonsai-27B-Abliterated-LowDeg-GGUF",
+        "author": null,
+        "downloads": 7182,
+        "likes": 21
+    },
+    {
+        "id": "Myric/Laguna-S-2.1-APEX-GGUF",
+        "author": null,
+        "downloads": 29968,
+        "likes": 16
+    },
+    {
+        "id": "sakamakismile/KAT-Coder-V2.5-Dev-NVFP4",
+        "author": null,
+        "downloads": 1482,
+        "likes": 11
+    },
+    {
+        "id": "AlperKTS/Krea-2-SVDQuant-ComfyUI",
+        "author": null,
+        "downloads": 658,
+        "likes": 10
+    },
+    {
+        "id": "Glint-Research/Router",
+        "author": null,
+        "downloads": 36,
+        "likes": 10
+    },
+    {
+        "id": "inlineresearch/skin-lora-krea-2-raw",
+        "author": null,
+        "downloads": 0,
+        "likes": 10
+    },
+    {
+        "id": "bench-labs/VoxelModel-v1",
+        "author": null,
+        "downloads": 89,
+        "likes": 10
+    },
+    {
+        "id": "FermionResearch/Neutrino-0.6B",
+        "author": null,
+        "downloads": 1765,
+        "likes": 10
+    },
+    {
+        "id": "DarkArtsForge/Morbid-Miasma-24B",
+        "author": null,
+        "downloads": 33,
+        "likes": 10
+    },
+    {
+        "id": "stabilityai/stable-diffusion-xl-base-1.0",
+        "author": null,
+        "downloads": 1499340,
+        "likes": 7995
+    },
+    {
+        "id": "Kijai/WanVideo_comfy",
+        "author": null,
+        "downloads": 1872661,
+        "likes": 2453
+    },
+    {
+        "id": "ResembleAI/chatterbox",
+        "author": null,
+        "downloads": 2618952,
+        "likes": 1710
+    },
+    {
+        "id": "Qwen/Qwen3-Embedding-8B",
+        "author": null,
+        "downloads": 3433656,
+        "likes": 766
+    },
+    {
+        "id": "Wan-AI/Wan2.2-TI2V-5B",
+        "author": null,
+        "downloads": 16854,
+        "likes": 719
+    },
+    {
+        "id": "QuarkAudio/QuarkAudio-UniSE",
+        "author": null,
+        "downloads": 0,
+        "likes": 54
+    },
+    {
+        "id": "black-forest-labs/FLUX.2-klein-4B",
+        "author": null,
+        "downloads": 391246,
+        "likes": 825
+    },
+    {
+        "id": "mistralai/Voxtral-Mini-4B-Realtime-2602",
+        "author": null,
+        "downloads": 2104764,
+        "likes": 934
+    },
+    {
+        "id": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
+        "author": null,
+        "downloads": 3046371,
+        "likes": 409
+    },
+    {
+        "id": "z-lab/Qwen3.6-35B-A3B-DFlash",
+        "author": null,
+        "downloads": 232915,
+        "likes": 282
+    },
+    {
+        "id": "Qwen/Qwen3.6-27B-FP8",
+        "author": null,
+        "downloads": 7367765,
+        "likes": 331
+    },
+    {
+        "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+        "author": null,
+        "downloads": 356882,
+        "likes": 547
+    },
+    {
+        "id": "Supertone/supertonic-3",
+        "author": null,
+        "downloads": 29350,
+        "likes": 899
+    },
+    {
+        "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
+        "author": null,
+        "downloads": 22001,
+        "likes": 327
+    },
+    {
+        "id": "unsloth/Qwen3.5-122B-A10B-MTP-GGUF",
+        "author": null,
+        "downloads": 82150,
+        "likes": 93
+    },
+    {
+        "id": "Audio8/ARK-ASR-0.6B",
+        "author": null,
+        "downloads": 1776,
+        "likes": 47
+    },
+    {
+        "id": "CohereLabs/North-Mini-Code-1.0",
+        "author": null,
+        "downloads": 14379,
+        "likes": 542
+    },
+    {
+        "id": "zai-org/SCAIL-2",
+        "author": null,
+        "downloads": 16196,
+        "likes": 321
+    },
+    {
+        "id": "poolside/Laguna-M.1",
+        "author": null,
+        "downloads": 2528,
+        "likes": 138
+    },
+    {
+        "id": "sahilchachra/Unlimited-OCR-GGUF",
+        "author": null,
+        "downloads": 50484,
+        "likes": 111
+    },
+    {
+        "id": "Lightricks/LTX-2.3-22b-IC-LoRA-Pixel-Spatial-Upscaler",
+        "author": null,
+        "downloads": 5973,
+        "likes": 40
+    },
+    {
+        "id": "protoLabsAI/Ornith-1.0-9B-MTP-GGUF",
+        "author": null,
+        "downloads": 79784,
+        "likes": 88
+    },
+    {
+        "id": "EllaPriest45/Krea2_characters",
+        "author": null,
+        "downloads": 0,
+        "likes": 32
+    },
+    {
+        "id": "Patil/Krea-2-depth-controlnet",
+        "author": null,
+        "downloads": 0,
+        "likes": 126
+    },
+    {
+        "id": "nvidia/Cosmos3-Super-Image2Video-4Step",
+        "author": null,
+        "downloads": 2030,
+        "likes": 25
+    },
+    {
+        "id": "LiquidAI/LFM2.5-Encoder-350M-Diffusion",
+        "author": null,
+        "downloads": 85,
+        "likes": 9
+    },
+    {
+        "id": "poolside/Laguna-S-2.1-DFlash-NVFP4",
+        "author": null,
+        "downloads": 39612,
+        "likes": 31
+    },
+    {
+        "id": "Cseti/LTX2.3-22B_IC-LoRA-CrossView-Prompt",
+        "author": null,
+        "downloads": 0,
+        "likes": 114
+    },
+    {
+        "id": "sensenova/SenseNova-U1-8B-MoT-Infographic-V3",
+        "author": null,
+        "downloads": 474,
+        "likes": 57
+    },
+    {
+        "id": "Reza2kn/Bina-0.1-Koochik",
+        "author": null,
+        "downloads": 1719,
+        "likes": 28
+    },
+    {
+        "id": "brandonmusic/GLM-5.2-EXL3-TR3-3.0bpw",
+        "author": null,
+        "downloads": 741,
+        "likes": 11
+    },
+    {
+        "id": "Motif-Technologies/Motif-Audio",
+        "author": null,
+        "downloads": 11,
+        "likes": 9
+    },
+    {
+        "id": "amd/Instella-MoE-16B-A3B-SFT",
+        "author": null,
+        "downloads": 112,
+        "likes": 9
+    },
+    {
+        "id": "kakaocorp/kanana-2-3b-instruct",
+        "author": null,
+        "downloads": 753,
+        "likes": 9
+    },
+    {
+        "id": "LuffyTheFox/Qwen3.6-27B-Uncensored-Genesis-MTP-GGUF",
+        "author": null,
+        "downloads": 29823,
+        "likes": 10
+    },
+    {
+        "id": "kakaocorp/kanana-2-1.3b-instruct",
+        "author": null,
+        "downloads": 1066,
+        "likes": 9
+    },
+    {
+        "id": "UniversalComputingResearch/Limen0.2B",
+        "author": null,
+        "downloads": 180,
+        "likes": 9
+    },
+    {
+        "id": "owensong/Inflect-Micro-v2-ONNX",
+        "author": null,
+        "downloads": 117,
+        "likes": 10
+    },
+    {
+        "id": "nerkyor/Qwen3.5-122B-A10B-44GB-GPT5.6Sol-SFT-LynnStyle-GGUF",
+        "author": null,
+        "downloads": 10135,
+        "likes": 9
+    },
+    {
+        "id": "RedHatAI/Kimi-K3-FP8-BLOCK",
+        "author": null,
+        "downloads": 165,
+        "likes": 9
+    },
+    {
+        "id": "vessl/Kimi-K3-W4AFP8",
+        "author": null,
+        "downloads": 569,
+        "likes": 11
+    },
+    {
+        "id": "prometheusAIR/Kimi-K3-REAP55-GGUF",
+        "author": null,
+        "downloads": 404,
+        "likes": 9
+    },
+    {
+        "id": "rhasspy/piper-voices",
+        "author": null,
+        "downloads": 0,
+        "likes": 623
+    },
+    {
+        "id": "ai4bharat/indic-parler-tts",
+        "author": null,
+        "downloads": 353418,
+        "likes": 276
+    },
+    {
+        "id": "black-forest-labs/FLUX.1-Fill-dev",
+        "author": null,
+        "downloads": 407861,
+        "likes": 1113
+    },
+    {
+        "id": "google/gemma-3-4b-it",
+        "author": null,
+        "downloads": 2042789,
+        "likes": 1438
+    },
+    {
+        "id": "microsoft/VibeVoice-1.5B",
+        "author": null,
+        "downloads": 63554,
+        "likes": 2439
+    },
+    {
+        "id": "nvidia/Cosmos-Reason2-2B",
+        "author": null,
+        "downloads": 459782,
+        "likes": 140
+    },
+    {
+        "id": "unsloth/Qwen-Image-Edit-2511-GGUF",
+        "author": null,
+        "downloads": 198699,
+        "likes": 550
+    },
+    {
+        "id": "lightx2v/Qwen-Image-Edit-2511-Lightning",
+        "author": null,
+        "downloads": 298280,
+        "likes": 501
+    },
+    {
+        "id": "kyutai/pocket-tts",
+        "author": null,
+        "downloads": 1406,
+        "likes": 762
+    },
+    {
+        "id": "nvidia/personaplex-7b-v1",
+        "author": null,
+        "downloads": 253909,
+        "likes": 2634
+    },
+    {
+        "id": "fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA",
+        "author": null,
+        "downloads": 63419,
+        "likes": 1490
+    },
+    {
+        "id": "google/medgemma-1.5-4b-it",
+        "author": null,
+        "downloads": 473228,
+        "likes": 755
+    },
+    {
+        "id": "black-forest-labs/FLUX.2-klein-base-9b-fp8",
+        "author": null,
+        "downloads": 21569,
+        "likes": 207
+    },
+    {
+        "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+        "author": null,
+        "downloads": 81478,
+        "likes": 2926
+    },
+    {
+        "id": "DreamFast/gemma-3-12b-it-heretic-v2",
+        "author": null,
+        "downloads": 11177,
+        "likes": 76
+    },
+    {
+        "id": "nvidia/Cosmos3-Super",
+        "author": null,
+        "downloads": 114688,
+        "likes": 221
+    },
+    {
+        "id": "HauhauCS/Qwen3.5-122B-A10B-Uncensored-HauhauCS-Aggressive",
+        "author": null,
+        "downloads": 191479,
+        "likes": 161
+    },
+    {
+        "id": "CohereLabs/cohere-transcribe-03-2026",
+        "author": null,
+        "downloads": 1061056,
+        "likes": 1066
+    },
+    {
+        "id": "openbmb/MiniCPM-V-4.6",
+        "author": null,
+        "downloads": 932621,
+        "likes": 1172
+    },
+    {
+        "id": "Qwen/Qwen3.6-35B-A3B-FP8",
+        "author": null,
+        "downloads": 8239376,
+        "likes": 333
+    },
+    {
+        "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+        "author": null,
+        "downloads": 105232,
+        "likes": 415
+    },
+    {
+        "id": "google/gemma-4-12B",
+        "author": null,
+        "downloads": 224963,
+        "likes": 685
+    },
+    {
+        "id": "OpenMOSS-Team/MOSS-SoundEffect-v2.0",
+        "author": null,
+        "downloads": 2056,
+        "likes": 131
+    },
+    {
+        "id": "LiquidAI/LFM2.5-8B-A1B",
+        "author": null,
+        "downloads": 170282,
+        "likes": 688
+    },
+    {
+        "id": "LiconStudio/LTX-2.3-Multiple-Subject-Reference",
+        "author": null,
+        "downloads": 36766,
+        "likes": 247
+    },
+    {
+        "id": "Comfy-Org/Ideogram-4",
+        "author": null,
+        "downloads": 0,
+        "likes": 227
+    },
+    {
+        "id": "zai-org/GLM-5.2-FP8",
+        "author": null,
+        "downloads": 3114158,
+        "likes": 241
+    },
+    {
+        "id": "CohereLabs/cohere-transcribe-arabic-07-2026",
+        "author": null,
+        "downloads": 45019,
+        "likes": 141
+    },
+    {
+        "id": "deepreinforce-ai/Ornith-1.0-397B",
+        "author": null,
+        "downloads": 435388,
+        "likes": 251
+    },
+    {
+        "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2",
+        "author": null,
+        "downloads": 225160,
+        "likes": 80
+    },
+    {
+        "id": "poolside/Laguna-S-2.1-FP8",
+        "author": null,
+        "downloads": 43220,
+        "likes": 24
+    },
+    {
+        "id": "LiquidAI/LFM2.5-Encoder-350M-Spellchecker",
+        "author": null,
+        "downloads": 210,
+        "likes": 8
+    },
+    {
+        "id": "meituan-longcat/LongCat-2.0",
+        "author": null,
+        "downloads": 3096,
+        "likes": 224
+    },
+    {
+        "id": "SupraLabs/Supra-Router-51M",
+        "author": null,
+        "downloads": 3723,
+        "likes": 144
+    },
+    {
+        "id": "sakamakismile/Huihui-ThinkingCap-Qwen3.6-27B-abliterated-NVFP4",
+        "author": null,
+        "downloads": 9284,
+        "likes": 33
+    },
+    {
+        "id": "InternScience/Agents-A1-4B-Q4_K_M-GGUF",
+        "author": null,
+        "downloads": 15474,
+        "likes": 31
+    },
+    {
+        "id": "poolside/Laguna-S-2.1-DFlash",
+        "author": null,
+        "downloads": 13228,
+        "likes": 21
+    },
+    {
+        "id": "ai-sage/GigaChat3.1-Audio-10B-A1.8B",
+        "author": null,
+        "downloads": 137651,
+        "likes": 49
+    },
+    {
+        "id": "t-tech/T-Search",
+        "author": null,
+        "downloads": 729,
+        "likes": 51
+    },
+    {
+        "id": "unsloth/inkling-GGUF",
+        "author": null,
+        "downloads": 227723,
+        "likes": 129
+    },
+    {
+        "id": "mindlab-research/Macaron-V1-Coding-Venti",
+        "author": null,
+        "downloads": 257,
+        "likes": 19
+    },
+    {
+        "id": "FINAL-Bench/POCKET-EN-GGUF",
+        "author": null,
+        "downloads": 2679,
+        "likes": 33
+    },
+    {
+        "id": "sanjxz/Laguna-S-2.1-Agentic-Chat-Template-Jinja",
+        "author": null,
+        "downloads": 0,
+        "likes": 8
+    },
+    {
+        "id": "bench-labs/PixelModel-v3",
+        "author": null,
+        "downloads": 1396,
+        "likes": 8
+    },
+    {
+        "id": "mudler/Laguna-XS-2.1-APEX-GGUF",
+        "author": null,
+        "downloads": 1600,
+        "likes": 8
+    },
+    {
+        "id": "bench-labs/PixelModel-v4",
+        "author": null,
+        "downloads": 1336,
+        "likes": 8
+    },
+    {
+        "id": "GODELEV/Rose-Mini",
+        "author": null,
+        "downloads": 344,
+        "likes": 8
+    },
+    {
+        "id": "owensong/Inflect-Nano-v2-ONNX",
+        "author": null,
+        "downloads": 59,
+        "likes": 9
+    },
+    {
+        "id": "0xSero/GLM-5.2-TR3-Vision",
+        "author": null,
+        "downloads": 221,
+        "likes": 8
+    },
+    {
+        "id": "appvoid/palmer-006",
+        "author": null,
+        "downloads": 75,
+        "likes": 8
+    },
+    {
+        "id": "Kuberwastaken/Kimi-K3-GGUF",
+        "author": null,
+        "downloads": 2086,
+        "likes": 8
+    },
+    {
+        "id": "rzgar/LTX-2.3-Cinematic-VAE",
+        "author": null,
+        "downloads": 277,
+        "likes": 8
+    },
+    {
+        "id": "KyleHessling1/Qwopus3.6-27B-Fusion-BF16",
+        "author": null,
+        "downloads": 3,
+        "likes": 8
+    },
+    {
+        "id": "nomic-ai/nomic-embed-text-v1.5",
+        "author": null,
+        "downloads": 14892314,
+        "likes": 882
+    },
+    {
+        "id": "Qwen/Qwen2.5-0.5B-Instruct",
+        "author": null,
+        "downloads": 5570131,
+        "likes": 572
+    },
+    {
+        "id": "meta-llama/Llama-3.2-1B",
+        "author": null,
+        "downloads": 1743857,
+        "likes": 2514
+    },
+    {
+        "id": "meta-llama/Llama-3.2-3B-Instruct",
+        "author": null,
+        "downloads": 1555909,
+        "likes": 2381
+    },
+    {
+        "id": "stabilityai/stable-diffusion-3.5-large",
+        "author": null,
+        "downloads": 63456,
+        "likes": 3610
+    },
+    {
+        "id": "google/gemma-3-1b-it",
+        "author": null,
+        "downloads": 3859196,
+        "likes": 1072
+    },
+    {
+        "id": "moonshotai/Kimi-Audio-7B",
+        "author": null,
+        "downloads": 187,
+        "likes": 94
+    },
+    {
+        "id": "Qwen/Qwen3-Embedding-0.6B",
+        "author": null,
+        "downloads": 10184486,
+        "likes": 1133
+    },
+    {
+        "id": "Phr00t/WAN2.2-14B-Rapid-AllInOne",
+        "author": null,
+        "downloads": 0,
+        "likes": 1636
+    },
+    {
+        "id": "facebook/dinov3-vitb16-pretrain-lvd1689m",
+        "author": null,
+        "downloads": 772703,
+        "likes": 201
+    },
+    {
+        "id": "tencent/HunyuanOCR",
+        "author": null,
+        "downloads": 469280,
+        "likes": 792
+    },
+    {
+        "id": "Comfy-Org/z_image_turbo",
+        "author": null,
+        "downloads": 5321108,
+        "likes": 794
+    },
+    {
+        "id": "Qwen/Qwen3.5-122B-A10B",
+        "author": null,
+        "downloads": 1737905,
+        "likes": 599
+    },
+    {
+        "id": "unsloth/Qwen3.5-122B-A10B-GGUF",
+        "author": null,
+        "downloads": 102033,
+        "likes": 288
+    },
+    {
+        "id": "google/gemma-4-31B",
+        "author": null,
+        "downloads": 801411,
+        "likes": 483
+    },
+    {
+        "id": "KRAFTON/Raon-SpeechChat-9B",
+        "author": null,
+        "downloads": 896,
+        "likes": 44
+    },
+    {
+        "id": "tencent/HY-World-2.0",
+        "author": null,
+        "downloads": 2191,
+        "likes": 694
+    },
+    {
+        "id": "robbyant/lingbot-map",
+        "author": null,
+        "downloads": 0,
+        "likes": 313
+    },
+    {
+        "id": "cyankiwi/Qwen3.6-27B-AWQ-INT4",
+        "author": null,
+        "downloads": 2520221,
+        "likes": 101
+    },
+    {
+        "id": "unsloth/Qwen3.6-35B-A3B-NVFP4",
+        "author": null,
+        "downloads": 1161711,
+        "likes": 104
+    },
+    {
+        "id": "inclusionAI/Ling-2.6-flash",
+        "author": null,
+        "downloads": 7862,
+        "likes": 504
+    },
+    {
+        "id": "TencentARC/Pixal3D",
+        "author": null,
+        "downloads": 0,
+        "likes": 306
+    },
+    {
+        "id": "tencent/Hy-MT2-1.8B",
+        "author": null,
+        "downloads": 162194,
+        "likes": 1157
+    },
+    {
+        "id": "YanJiangJerry/Block-R1-ckpts",
+        "author": null,
+        "downloads": 0,
+        "likes": 7
+    },
+    {
+        "id": "datalab-to/surya-ocr-2",
+        "author": null,
+        "downloads": 943130,
+        "likes": 86
+    },
+    {
+        "id": "LuffyTheFox/Qwen3-Uncensored-TextEncoders-Klein-Z-Image-Anima-GGUF",
+        "author": null,
+        "downloads": 16718,
+        "likes": 20
+    },
+    {
+        "id": "stepfun-ai/Step-3.7-Flash",
+        "author": null,
+        "downloads": 146413,
+        "likes": 430
+    },
+    {
+        "id": "Comfy-Org/sam-3d-body",
+        "author": null,
+        "downloads": 0,
+        "likes": 9
+    },
+    {
+        "id": "lmstudio-community/gemma-4-26B-A4B-it-QAT-MLX-4bit",
+        "author": null,
+        "downloads": 971271,
+        "likes": 9
+    },
+    {
+        "id": "unsloth/Kimi-K2.7-Code-GGUF",
+        "author": null,
+        "downloads": 321007,
+        "likes": 189
+    },
+    {
+        "id": "empero-ai/Qwable-9B-Claude-Fable-5",
+        "author": null,
+        "downloads": 6069,
+        "likes": 114
+    },
+    {
+        "id": "owensong/Inflect-Nano-v1",
+        "author": null,
+        "downloads": 0,
+        "likes": 226
+    },
+    {
+        "id": "mlx-community/gemma-4-12b-coder-fable5-composer2.5-4bit",
+        "author": null,
+        "downloads": 9695,
+        "likes": 34
+    },
+    {
+        "id": "lightonai/mLateOn",
+        "author": null,
+        "downloads": 1508,
+        "likes": 7
+    },
+    {
+        "id": "nvidia/MiniMax-M3-NVFP4",
+        "author": null,
+        "downloads": 584358,
+        "likes": 71
+    },
+    {
+        "id": "Kutches/Kr3a",
+        "author": null,
+        "downloads": 14993,
+        "likes": 55
+    },
+    {
+        "id": "HauhauCS/Gemma4-31B-QAT-Uncensored-HauhauCS-Balanced-MTP",
+        "author": null,
+        "downloads": 90765,
+        "likes": 107
+    },
+    {
+        "id": "Qwen/Qwen3-ASR-0.6B-hf",
+        "author": null,
+        "downloads": 153552,
+        "likes": 43
+    },
+    {
+        "id": "SC117/Ornith-1.0-35B-MTP-APEX-GGUF",
+        "author": null,
+        "downloads": 72723,
+        "likes": 74
+    },
+    {
+        "id": "Soofi-Project/Soofi-S-Base",
+        "author": null,
+        "downloads": 269,
+        "likes": 81
+    },
+    {
+        "id": "jarrelscy/GLM-5.2-NVFP4-AQLM-hybrid",
+        "author": null,
+        "downloads": 3002,
+        "likes": 14
+    },
+    {
+        "id": "ostris/krea2_turbo_style_reference",
+        "author": null,
+        "downloads": 6031,
+        "likes": 97
+    },
+    {
+        "id": "bottlecapai/ThinkingCap-Qwen3.6-27B-FP8",
+        "author": null,
+        "downloads": 71000,
+        "likes": 41
+    },
+    {
+        "id": "unsloth/Qwen3.6-35B-A3B-NVFP4-Fast",
+        "author": null,
+        "downloads": 362759,
+        "likes": 92
+    },
+    {
+        "id": "yychai/homie-r2v-wan2.1",
+        "author": null,
+        "downloads": 0,
+        "likes": 13
+    },
+    {
+        "id": "InternScience/Agents-A1-4B",
+        "author": null,
+        "downloads": 109937,
+        "likes": 68
+    },
+    {
+        "id": "qvac/VisionPsy-Nano-460M",
+        "author": null,
+        "downloads": 297,
+        "likes": 7
+    },
+    {
+        "id": "nvidia/Nemotron-3-Embed-1B-NVFP4",
+        "author": null,
+        "downloads": 13514,
+        "likes": 72
+    },
+    {
+        "id": "nyralabs/CrisperWhisper2.0_large_pro",
+        "author": null,
+        "downloads": 36,
+        "likes": 7
+    },
+    {
+        "id": "unsloth/Ornith-1.0-397B-GGUF",
+        "author": null,
+        "downloads": 6767,
+        "likes": 22
+    },
+    {
+        "id": "HFVwr/kimi-k3-article-svg-preview",
+        "author": null,
+        "downloads": 0,
+        "likes": 10
+    },
+    {
+        "id": "poolside/Laguna-S-2.1-NVFP4-mlx",
+        "author": null,
+        "downloads": 11093,
+        "likes": 26
+    },
+    {
+        "id": "bartowski/Laguna-XS-2.1-GGUF",
+        "author": null,
+        "downloads": 18314,
+        "likes": 10
+    },
+    {
+        "id": "wuwukasi/mage-flow-comfyui",
+        "author": null,
+        "downloads": 0,
+        "likes": 8
+    },
+    {
+        "id": "gorbatjovy/Qwen3.6-27B-Architect-Polaris2-Fable-B-F451-heretic",
+        "author": null,
+        "downloads": 192,
+        "likes": 9
+    },
+    {
+        "id": "mradermacher/KAT-Coder-V2.5-Dev-i1-GGUF",
+        "author": null,
+        "downloads": 2789,
+        "likes": 7
+    },
+    {
+        "id": "rodrigoramosrs/veriloop-coder-e1-gguf",
+        "author": null,
+        "downloads": 955,
+        "likes": 7
+    },
+    {
+        "id": "BlueBackup/Qwen3.6-35B-A3B-uncensored-heretic-IQ2_M",
+        "author": null,
+        "downloads": 4679,
+        "likes": 7
+    },
+    {
+        "id": "ProCreations/grug-3b-qat-q4-gguf",
+        "author": null,
+        "downloads": 899,
+        "likes": 7
+    },
+    {
+        "id": "FermionResearch/Neutrino-0.6B-Chat",
+        "author": null,
+        "downloads": 251,
+        "likes": 7
+    },
+    {
+        "id": "nightmedia/Qwen3.5-9B-Holodeck-Lounge-GGUF",
+        "author": null,
+        "downloads": 3259,
+        "likes": 7
+    },
+    {
+        "id": "rzgar/LTX-2.3-Motion-Enhancer-n4w",
+        "author": null,
+        "downloads": 1286,
+        "likes": 7
+    },
+    {
+        "id": "bartowski/Nanbeige_Nanbeige4.2-3B-GGUF",
+        "author": null,
+        "downloads": 3017,
+        "likes": 7
+    },
+    {
+        "id": "scrappylabsai/scrappy-voice-1",
+        "author": null,
+        "downloads": 114,
+        "likes": 7
+    },
+    {
+        "id": "SexGod1979/PinkCherry_NSFW_LTX23",
+        "author": null,
+        "downloads": 9214,
+        "likes": 94
+    },
+    {
+        "id": "FINAL-Bench/POCKET-Image-Zimage",
+        "author": null,
+        "downloads": 64,
+        "likes": 27
+    },
+    {
+        "id": "google-t5/t5-small",
+        "author": null,
+        "downloads": 25837868,
+        "likes": 586
+    },
+    {
+        "id": "RunDiffusion/Juggernaut-XL-v9",
+        "author": null,
+        "downloads": 162458,
+        "likes": 398
+    },
+    {
+        "id": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+        "author": null,
+        "downloads": 186838,
+        "likes": 156
+    },
+    {
+        "id": "Qwen/Qwen2.5-Coder-14B-Instruct-GGUF",
+        "author": null,
+        "downloads": 74990,
+        "likes": 176
+    },
+    {
+        "id": "nvidia/parakeet-tdt-0.6b-v2",
+        "author": null,
+        "downloads": 771523,
+        "likes": 1528
+    },
+    {
+        "id": "Qwen/Qwen3-4B",
+        "author": null,
+        "downloads": 4408091,
+        "likes": 667
+    },
+    {
+        "id": "Qwen/Qwen3-4B-GGUF",
+        "author": null,
+        "downloads": 285499,
+        "likes": 128
+    },
+    {
+        "id": "Qwen/Qwen3-Reranker-0.6B",
+        "author": null,
+        "downloads": 2691622,
+        "likes": 382
+    },
+    {
+        "id": "google/gemma-3n-E2B-it-litert-lm",
+        "author": null,
+        "downloads": 6502,
+        "likes": 507
+    },
+    {
+        "id": "Wan-AI/Wan2.2-T2V-A14B",
+        "author": null,
+        "downloads": 3909,
+        "likes": 530
+    },
+    {
+        "id": "Qwen/Qwen-Image-Edit",
+        "author": null,
+        "downloads": 109148,
+        "likes": 2466
+    },
+    {
+        "id": "Comfy-Org/Qwen-Image-Edit_ComfyUI",
+        "author": null,
+        "downloads": 825652,
+        "likes": 448
+    },
+    {
+        "id": "moondream/moondream3-preview",
+        "author": null,
+        "downloads": 272045,
+        "likes": 677
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-OCR",
+        "author": null,
+        "downloads": 2467921,
+        "likes": 3325
+    },
+    {
+        "id": "spacepxl/Wan2.1-VAE-upscale2x",
+        "author": null,
+        "downloads": 48506,
+        "likes": 188
+    },
+    {
+        "id": "kpsss34/FHDR_Uncensored",
+        "author": null,
+        "downloads": 3687,
+        "likes": 597
+    },
+    {
+        "id": "amazon/chronos-2",
+        "author": null,
+        "downloads": 24665815,
+        "likes": 383
+    },
+    {
+        "id": "Qwen/Qwen3-VL-8B-Instruct-GGUF",
+        "author": null,
+        "downloads": 64847,
+        "likes": 127
+    },
+    {
+        "id": "zeroentropy/zerank-2-reranker",
+        "author": null,
+        "downloads": 214264,
+        "likes": 104
+    },
+    {
+        "id": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
+        "author": null,
+        "downloads": 952653,
+        "likes": 804
+    },
+    {
+        "id": "microsoft/VibeVoice-Realtime-0.5B",
+        "author": null,
+        "downloads": 656688,
+        "likes": 1259
+    },
+    {
+        "id": "upstage/Solar-Open-100B",
+        "author": null,
+        "downloads": 9439,
+        "likes": 493
+    },
+    {
+        "id": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+        "author": null,
+        "downloads": 2490951,
+        "likes": 458
+    },
+    {
+        "id": "Tongyi-MAI/Z-Image",
+        "author": null,
+        "downloads": 22306,
+        "likes": 1195
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-OCR-2",
+        "author": null,
+        "downloads": 2373752,
+        "likes": 1064
+    },
+    {
+        "id": "OpenMOSS-Team/MOSS-TTS-Realtime",
+        "author": null,
+        "downloads": 28417,
+        "likes": 98
+    },
+    {
+        "id": "Nanbeige/Nanbeige4.1-3B",
+        "author": null,
+        "downloads": 21821,
+        "likes": 1160
+    },
+    {
+        "id": "runanywhere/silero-vad-v5",
+        "author": null,
+        "downloads": 0,
+        "likes": 7
+    },
+    {
+        "id": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
+        "author": null,
+        "downloads": 53290,
+        "likes": 126
+    },
+    {
+        "id": "nvidia/GR00T-N1.7-3B",
+        "author": null,
+        "downloads": 45469,
+        "likes": 94
+    },
+    {
+        "id": "Qwen/Qwen3.5-2B",
+        "author": null,
+        "downloads": 2479386,
+        "likes": 343
+    },
+    {
+        "id": "google/gemma-4-E4B",
+        "author": null,
+        "downloads": 232274,
+        "likes": 377
+    },
+    {
+        "id": "Tesslate/OmniCoder-9B",
+        "author": null,
+        "downloads": 1231,
+        "likes": 668
+    },
+    {
+        "id": "dots-studio/dots.mocr",
+        "author": null,
+        "downloads": 232716,
+        "likes": 156
+    },
+    {
+        "id": "realrebelai/LOW_VRAM_Workflows",
+        "author": null,
+        "downloads": 0,
+        "likes": 28
+    },
+    {
+        "id": "Naphula/KrakenSakura-Maelstrom-12B-v1-GGUF",
+        "author": null,
+        "downloads": 7502,
+        "likes": 16
+    },
+    {
+        "id": "LiquidAI/LFM2.5-350M",
+        "author": null,
+        "downloads": 93235,
+        "likes": 384
+    },
+    {
+        "id": "llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUF",
+        "author": null,
+        "downloads": 55998,
+        "likes": 159
+    },
+    {
+        "id": "huihui-ai/Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated",
+        "author": null,
+        "downloads": 30985,
+        "likes": 182
+    },
+    {
+        "id": "mlx-community/Qwen3.6-35B-A3B-OptiQ-4bit",
+        "author": null,
+        "downloads": 12516,
+        "likes": 57
+    },
+    {
+        "id": "nvidia/PiD",
+        "author": null,
+        "downloads": 376,
+        "likes": 399
+    },
+    {
+        "id": "numind/NuExtract3",
+        "author": null,
+        "downloads": 829166,
+        "likes": 318
+    },
+    {
+        "id": "google/gemma-4-26B-A4B-it-qat-q4_0-unquantized",
+        "author": null,
+        "downloads": 47456,
+        "likes": 49
+    },
+    {
+        "id": "google/gemma-4-26B-A4B-it-qat-q4_0-gguf",
+        "author": null,
+        "downloads": 93273,
+        "likes": 127
+    },
+    {
+        "id": "ponpoke/flux2-klein-4b-uncensored-text-encoder",
+        "author": null,
+        "downloads": 10764,
+        "likes": 92
+    },
+    {
+        "id": "darksidewalker/DaSiWa-LTX2.3",
+        "author": null,
+        "downloads": 756,
+        "likes": 50
+    },
+    {
+        "id": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
+        "author": null,
+        "downloads": 58878,
+        "likes": 165
+    },
+    {
+        "id": "vantagewithai/LTX2.3-10Eros-GGUF",
+        "author": null,
+        "downloads": 63137,
+        "likes": 185
+    },
+    {
+        "id": "Lightricks/LTX-2.3-22b-IC-LoRA-DubIt",
+        "author": null,
+        "downloads": 5905,
+        "likes": 118
+    },
+    {
+        "id": "stabilityai/stable-audio-3-medium",
+        "author": null,
+        "downloads": 40994,
+        "likes": 247
+    },
+    {
+        "id": "nvidia/DeepSeek-V4-Flash-NVFP4",
+        "author": null,
+        "downloads": 1299495,
+        "likes": 80
+    },
+    {
+        "id": "huihui-ai/Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated-MTP-GGUF",
+        "author": null,
+        "downloads": 95481,
+        "likes": 82
+    },
+    {
+        "id": "OpenMOSS-Team/MOSS-TTS-v1.5",
+        "author": null,
+        "downloads": 114460,
+        "likes": 192
+    },
+    {
+        "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-abliterated-ds4-GGUF",
+        "author": null,
+        "downloads": 512723,
+        "likes": 113
+    },
+    {
+        "id": "PaddlePaddle/PaddleOCR-VL-1.6",
+        "author": null,
+        "downloads": 65755,
+        "likes": 385
+    },
+    {
+        "id": "thedeoxen/refcontrol-FLUX.2-klein-9B-reference-depth-lora",
+        "author": null,
+        "downloads": 7238,
+        "likes": 66
+    },
+    {
+        "id": "lightx2v/LightWan2.2-A14B",
+        "author": null,
+        "downloads": 4335,
+        "likes": 47
+    },
+    {
+        "id": "kyutai/personaplex-rl-seamless",
+        "author": null,
+        "downloads": 10158,
+        "likes": 31
+    },
+    {
+        "id": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16",
+        "author": null,
+        "downloads": 353896,
+        "likes": 299
+    },
+    {
+        "id": "unsloth/gemma-4-E4B-it-qat-GGUF",
+        "author": null,
+        "downloads": 280384,
+        "likes": 147
+    },
+    {
+        "id": "bartowski/MiniMax-M3-GGUF",
+        "author": null,
+        "downloads": 12533,
+        "likes": 6
+    },
+    {
+        "id": "jica98/qwen3.5-4B-super-coder",
+        "author": null,
+        "downloads": 37890,
+        "likes": 54
+    },
+    {
+        "id": "EllaPriest45/Krea2_actions",
+        "author": null,
+        "downloads": 0,
+        "likes": 20
+    },
+    {
+        "id": "gokaygokay/Krea-2-Realism-LoRA",
+        "author": null,
+        "downloads": 17680,
+        "likes": 68
+    },
+    {
+        "id": "huihui-ai/Huihui-Qwythos-9B-Claude-Mythos-5-1M-abliterated-GGUF",
+        "author": null,
+        "downloads": 69044,
+        "likes": 150
+    },
+    {
+        "id": "bartowski/deepreinforce-ai_Ornith-1.0-35B-GGUF",
+        "author": null,
+        "downloads": 61702,
+        "likes": 63
+    },
+    {
+        "id": "OpenMOSS-Team/MOSS-Transcribe-preview-2B",
+        "author": null,
+        "downloads": 2797,
+        "likes": 44
+    },
+    {
+        "id": "sensenova/SenseNova-Vision-7B-MoT",
+        "author": null,
+        "downloads": 1100,
+        "likes": 99
+    },
+    {
+        "id": "DeverStyle/Krea-2-Premium-Loras",
+        "author": null,
+        "downloads": 1988,
+        "likes": 37
+    },
+    {
+        "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+        "author": null,
+        "downloads": 8569,
+        "likes": 178
+    },
+    {
+        "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
+        "author": null,
+        "downloads": 17964,
+        "likes": 72
+    },
+    {
+        "id": "OrionLLM/GRM-2.6-Plus-0628",
+        "author": null,
+        "downloads": 1389,
+        "likes": 35
+    },
+    {
+        "id": "NorbyQWEN/Krea2_Loras",
+        "author": null,
+        "downloads": 0,
+        "likes": 11
+    },
+    {
+        "id": "tencent/HiLS-Attention-7B",
+        "author": null,
+        "downloads": 888,
+        "likes": 22
+    },
+    {
+        "id": "Qualcomm-AI-Research/mobilewan",
+        "author": null,
+        "downloads": 2503,
+        "likes": 36
+    },
+    {
+        "id": "thinkingmachines/Inkling-NVFP4",
+        "author": null,
+        "downloads": 187585,
+        "likes": 80
+    },
+    {
+        "id": "yijunwang2/krea2-reid",
+        "author": null,
+        "downloads": 2184,
+        "likes": 29
+    },
+    {
+        "id": "bageldotcom/worlddit",
+        "author": null,
+        "downloads": 60,
+        "likes": 6
+    },
+    {
+        "id": "ifmylove2011/girlslike-krea2",
+        "author": null,
+        "downloads": 0,
+        "likes": 15
+    },
+    {
+        "id": "cusiman/Krea2_Collection",
+        "author": null,
+        "downloads": 4678,
+        "likes": 7
+    },
+    {
+        "id": "scx-admin/scx-router-v0.1",
+        "author": null,
+        "downloads": 140,
+        "likes": 7
+    },
+    {
+        "id": "Motif-Technologies/Motif-Vision-Encoder",
+        "author": null,
+        "downloads": 2076,
+        "likes": 6
+    },
+    {
+        "id": "mlx-community/Laguna-S-2.1-oQ2e",
+        "author": null,
+        "downloads": 2659,
+        "likes": 11
+    },
+    {
+        "id": "Abiray/Nanbeige4.2-3B-GGUF",
+        "author": null,
+        "downloads": 10761,
+        "likes": 15
+    },
+    {
+        "id": "0xSero/Laguna-S-2.1-Hybrid-3.25bpw",
+        "author": null,
+        "downloads": 202,
+        "likes": 6
+    },
+    {
+        "id": "BAAI/AREX-Base",
+        "author": null,
+        "downloads": 249,
+        "likes": 12
+    },
+    {
+        "id": "satgeze/Qwen3.6-27B-DSpark",
+        "author": null,
+        "downloads": 5205,
+        "likes": 6
+    },
+    {
+        "id": "aidendle94/GLM-5.2-MXFP4-Experts-GPTQ",
+        "author": null,
+        "downloads": 70,
+        "likes": 6
+    },
+    {
+        "id": "gorbatjovy/Qwen3.6-27B-Architect-Polaris2-Fable-B-F451-heretic-GGUF",
+        "author": null,
+        "downloads": 4409,
+        "likes": 6
+    },
+    {
+        "id": "antirez/Laguna-S-2.1-GGUF",
+        "author": null,
+        "downloads": 1793,
+        "likes": 6
+    },
+    {
+        "id": "0xSero/GLM-5.2-MXFP8-NVFP4-NF3-Hybrid-Vision",
+        "author": null,
+        "downloads": 118,
+        "likes": 6
+    },
+    {
+        "id": "CohereLabs/North-Mini-Code-1.0-eagle",
+        "author": null,
+        "downloads": 53,
+        "likes": 6
+    },
+    {
+        "id": "Trilogix1/Hugston-Macaron-V1-Tall",
+        "author": null,
+        "downloads": 3782,
+        "likes": 6
+    },
+    {
+        "id": "bartowski/BAAI_AREX-Turbo-GGUF",
+        "author": null,
+        "downloads": 3241,
+        "likes": 6
+    },
+    {
+        "id": "OrionLLM/GRM-3.2-Sky",
+        "author": null,
+        "downloads": 0,
+        "likes": 7
+    },
+    {
+        "id": "QuixiAI/GLM-5.2-Vision-GGUF",
+        "author": null,
+        "downloads": 427,
+        "likes": 6
+    },
+    {
+        "id": "ProCreations/grug-3b-gguf",
+        "author": null,
+        "downloads": 1435,
+        "likes": 7
+    },
+    {
+        "id": "Vortex5/G4-Dark-Soul-26B-A4B",
+        "author": null,
+        "downloads": 735,
+        "likes": 6
+    },
+    {
+        "id": "pipenetwork/Kimi-K3-REAP73-MLX-mxfp4-q8",
+        "author": null,
+        "downloads": 3785,
+        "likes": 6
+    },
+    {
+        "id": "lightx2v/LightLingBot-Video",
+        "author": null,
+        "downloads": 0,
+        "likes": 6
+    },
+    {
+        "id": "PassingByPixels/Qwen3.6-27B-Architect-Polaris2-Fable-B-F451-NVFP4-MTP",
+        "author": null,
+        "downloads": 293,
+        "likes": 6
+    },
+    {
+        "id": "t-tech/T-Search-GGUF",
+        "author": null,
+        "downloads": 113,
+        "likes": 6
+    },
+    {
+        "id": "google-bert/bert-base-uncased",
+        "author": null,
+        "downloads": 103531008,
+        "likes": 2721
+    },
+    {
+        "id": "facebook/nllb-200-distilled-600M",
+        "author": null,
+        "downloads": 1919618,
+        "likes": 945
+    },
+    {
+        "id": "intfloat/multilingual-e5-small",
+        "author": null,
+        "downloads": 15722324,
+        "likes": 377
+    },
+    {
+        "id": "intfloat/multilingual-e5-large",
+        "author": null,
+        "downloads": 7716888,
+        "likes": 1237
+    },
+    {
+        "id": "google/paligemma-3b-pt-224",
+        "author": null,
+        "downloads": 160292,
+        "likes": 529
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct",
+        "author": null,
+        "downloads": 540469,
+        "likes": 627
+    },
+    {
+        "id": "FunAudioLLM/SenseVoiceSmall",
+        "author": null,
+        "downloads": 29418,
+        "likes": 442
+    },
+    {
+        "id": "KlingTeam/LivePortrait",
+        "author": null,
+        "downloads": 7687,
+        "likes": 483
+    },
+    {
+        "id": "ZhengPeng7/BiRefNet",
+        "author": null,
+        "downloads": 762575,
+        "likes": 616
+    },
+    {
+        "id": "SmilingWolf/wd-eva02-large-tagger-v3",
+        "author": null,
+        "downloads": 31643,
+        "likes": 201
+    },
+    {
+        "id": "paige-ai/Virchow2",
+        "author": null,
+        "downloads": 71578,
+        "likes": 145
+    },
+    {
+        "id": "meta-llama/Llama-3.2-3B",
+        "author": null,
+        "downloads": 534218,
+        "likes": 882
+    },
+    {
+        "id": "briaai/RMBG-2.0",
+        "author": null,
+        "downloads": 687370,
+        "likes": 1347
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-V3",
+        "author": null,
+        "downloads": 1164433,
+        "likes": 4108
+    },
+    {
+        "id": "Qwen/Qwen2.5-VL-7B-Instruct",
+        "author": null,
+        "downloads": 9179146,
+        "likes": 1657
+    },
+    {
+        "id": "Comfy-Org/Wan_2.1_ComfyUI_repackaged",
+        "author": null,
+        "downloads": 2212718,
+        "likes": 943
+    },
+    {
+        "id": "litert-community/Gemma3-1B-IT",
+        "author": null,
+        "downloads": 12436,
+        "likes": 727
+    },
+    {
+        "id": "microsoft/bitnet-b1.58-2B-4T",
+        "author": null,
+        "downloads": 12907,
+        "likes": 1490
+    },
+    {
+        "id": "DeepHat/DeepHat-V1-7B",
+        "author": null,
+        "downloads": 11610,
+        "likes": 210
+    },
+    {
+        "id": "Qwen/Qwen3-8B-GGUF",
+        "author": null,
+        "downloads": 198396,
+        "likes": 236
+    },
+    {
+        "id": "black-forest-labs/FLUX.1-Kontext-dev",
+        "author": null,
+        "downloads": 235739,
+        "likes": 2746
+    },
+    {
+        "id": "QuantStack/Wan2.2-I2V-A14B-GGUF",
+        "author": null,
+        "downloads": 337009,
+        "likes": 375
+    },
+    {
+        "id": "Qwen/Qwen-Image",
+        "author": null,
+        "downloads": 202103,
+        "likes": 2559
+    },
+    {
+        "id": "mlx-community/parakeet-tdt-0.6b-v3",
+        "author": null,
+        "downloads": 1329227,
+        "likes": 51
+    },
+    {
+        "id": "Wan-AI/Wan2.2-Animate-14B",
+        "author": null,
+        "downloads": 22030,
+        "likes": 1221
+    },
+    {
+        "id": "microsoft/UserLM-8b",
+        "author": null,
+        "downloads": 3253,
+        "likes": 387
+    },
+    {
+        "id": "google/functiongemma-270m-it",
+        "author": null,
+        "downloads": 36844,
+        "likes": 1043
+    },
+    {
+        "id": "mistralai/Voxtral-4B-TTS-2603",
+        "author": null,
+        "downloads": 4263,
+        "likes": 888
+    },
+    {
+        "id": "ai-sage/GigaAM-v3",
+        "author": null,
+        "downloads": 362065,
+        "likes": 133
+    },
+    {
+        "id": "Comfy-Org/flux2-dev",
+        "author": null,
+        "downloads": 1462253,
+        "likes": 282
+    },
+    {
+        "id": "nvidia/NitroGen",
+        "author": null,
+        "downloads": 0,
+        "likes": 562
+    },
+    {
+        "id": "moonshotai/Kimi-K2.5",
+        "author": null,
+        "downloads": 974646,
+        "likes": 2860
+    },
+    {
+        "id": "black-forest-labs/FLUX.1-dev-FP8",
+        "author": null,
+        "downloads": 0,
+        "likes": 90
+    },
+    {
+        "id": "dx8152/Qwen-Image-Edit-2511-Gaussian-Splash",
+        "author": null,
+        "downloads": 996,
+        "likes": 203
+    },
+    {
+        "id": "zai-org/GLM-4.7-Flash",
+        "author": null,
+        "downloads": 2127302,
+        "likes": 1795
+    },
+    {
+        "id": "DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
+        "author": null,
+        "downloads": 33501,
+        "likes": 403
+    },
+    {
+        "id": "unsloth/GLM-4.7-Flash-REAP-23B-A3B-GGUF",
+        "author": null,
+        "downloads": 21988,
+        "likes": 264
+    },
+    {
+        "id": "Alissonerdx/BFS-Best-Face-Swap-Video",
+        "author": null,
+        "downloads": 271,
+        "likes": 378
+    },
+    {
+        "id": "Qwen/Qwen3.5-27B",
+        "author": null,
+        "downloads": 2702137,
+        "likes": 1021
+    },
+    {
+        "id": "litert-community/functiongemma-270m-ft-mobile-actions",
+        "author": null,
+        "downloads": 990,
+        "likes": 146
+    },
+    {
+        "id": "Granddyser/flux-klein-9b-Biglove-Collection",
+        "author": null,
+        "downloads": 27130,
+        "likes": 42
+    },
+    {
+        "id": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+        "author": null,
+        "downloads": 812282,
+        "likes": 414
+    },
+    {
+        "id": "nvidia/Cosmos3-Nano",
+        "author": null,
+        "downloads": 328204,
+        "likes": 322
+    },
+    {
+        "id": "joyfox/LTX-2.3-Transition-LORA",
+        "author": null,
+        "downloads": 27374,
+        "likes": 158
+    },
+    {
+        "id": "wikeeyang/Flux2-Klein-9B-True-V2",
+        "author": null,
+        "downloads": 764362,
+        "likes": 181
+    },
+    {
+        "id": "microsoft/harrier-oss-v1-0.6b",
+        "author": null,
+        "downloads": 228232,
+        "likes": 280
+    },
+    {
+        "id": "unsloth/gemma-4-E2B-it-GGUF",
+        "author": null,
+        "downloads": 450413,
+        "likes": 273
+    },
+    {
+        "id": "bartowski/google_gemma-4-26B-A4B-it-GGUF",
+        "author": null,
+        "downloads": 49959,
+        "likes": 150
+    },
+    {
+        "id": "nvidia/Gemma-4-31B-IT-NVFP4",
+        "author": null,
+        "downloads": 2814909,
+        "likes": 545
+    },
+    {
+        "id": "lmstudio-community/gemma-4-E4B-it-MLX-4bit",
+        "author": null,
+        "downloads": 1314538,
+        "likes": 22
+    },
+    {
+        "id": "black-forest-labs/FLUX.2-small-decoder",
+        "author": null,
+        "downloads": 206701,
+        "likes": 163
+    },
+    {
+        "id": "Lorbus/Qwen3.6-27B-int4-AutoRound",
+        "author": null,
+        "downloads": 598041,
+        "likes": 128
+    },
+    {
+        "id": "google/gemma-4-E4B-it-qat-q4_0-gguf",
+        "author": null,
+        "downloads": 135407,
+        "likes": 105
+    },
+    {
+        "id": "Youssofal/Qwen3.6-27B-MTPLX-Optimized-Speed",
+        "author": null,
+        "downloads": 18008,
+        "likes": 62
+    },
+    {
+        "id": "Prior-Labs/tabpfn_3",
+        "author": null,
+        "downloads": 11466,
+        "likes": 173
+    },
+    {
+        "id": "ggufbench/Qwen3.6-27B-4bpw-16GB-VRAM",
+        "author": null,
+        "downloads": 5204,
+        "likes": 53
+    },
+    {
+        "id": "fastino/gliner2-privacy-filter-PII-multi",
+        "author": null,
+        "downloads": 108629,
+        "likes": 72
+    },
+    {
+        "id": "unsloth/Qwen3.5-9B-MTP-GGUF",
+        "author": null,
+        "downloads": 90296,
+        "likes": 166
+    },
+    {
+        "id": "nvidia/llama-nemotron-rerank-vl-1b-v2-fp8",
+        "author": null,
+        "downloads": 32,
+        "likes": 5
+    },
+    {
+        "id": "michaelw9999/Qwen3.6-27B-NVFP4-MTP-GGUF",
+        "author": null,
+        "downloads": 43643,
+        "likes": 55
+    },
+    {
+        "id": "google/gemma-4-E2B-it-qat-mobile-transformers",
+        "author": null,
+        "downloads": 17396,
+        "likes": 142
+    },
+    {
+        "id": "mindlab-research/Macaron-V1-Preview-749B",
+        "author": null,
+        "downloads": 342,
+        "likes": 82
+    },
+    {
+        "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
+        "author": null,
+        "downloads": 59279,
+        "likes": 374
+    },
+    {
+        "id": "fal/ltx2.3-audio-reactive-lora",
+        "author": null,
+        "downloads": 8331,
+        "likes": 62
+    },
+    {
+        "id": "WeiboAI/VibeThinker-3B",
+        "author": null,
+        "downloads": 67330,
+        "likes": 811
+    },
+    {
+        "id": "Boogu/Boogu-Image-0.1-Edit",
+        "author": null,
+        "downloads": 984,
+        "likes": 176
+    },
+    {
+        "id": "aidealab/AnimeGen-T2V",
+        "author": null,
+        "downloads": 13184,
+        "likes": 58
+    },
+    {
+        "id": "Naphula/Goetia-26B-A4B-v1.3-Absolute-Heretic-ARA",
+        "author": null,
+        "downloads": 766,
+        "likes": 36
+    },
+    {
+        "id": "lightonai/mDenseOn",
+        "author": null,
+        "downloads": 106,
+        "likes": 5
+    },
+    {
+        "id": "vantagewithai/Krea-2-Turbo-GGUF",
+        "author": null,
+        "downloads": 71088,
+        "likes": 115
+    },
+    {
+        "id": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+        "author": null,
+        "downloads": 67213,
+        "likes": 127
+    },
+    {
+        "id": "LiquidAI/LFM2.5-230M",
+        "author": null,
+        "downloads": 65088,
+        "likes": 245
+    },
+    {
+        "id": "obsxrver/ComfyUI-Native-INT8_ConvRot",
+        "author": null,
+        "downloads": 0,
+        "likes": 45
+    },
+    {
+        "id": "mudler/Agents-A1-APEX-GGUF",
+        "author": null,
+        "downloads": 31055,
+        "likes": 23
+    },
+    {
+        "id": "llmfan46/Ornith-1.0-35B-uncensored-heretic-GGUF",
+        "author": null,
+        "downloads": 70790,
+        "likes": 29
+    },
+    {
+        "id": "moondream/moondream3.1-9B-A2B",
+        "author": null,
+        "downloads": 9534,
+        "likes": 48
+    },
+    {
+        "id": "InternScience/Agents-A1-Q4_K_M-GGUF",
+        "author": null,
+        "downloads": 63379,
+        "likes": 128
+    },
+    {
+        "id": "Sunbird/asr-whisper-51-african-languages",
+        "author": null,
+        "downloads": 1413,
+        "likes": 7
+    },
+    {
+        "id": "wikeeyang/Krea2-Turbo-HD-V1",
+        "author": null,
+        "downloads": 39319,
+        "likes": 79
+    },
+    {
+        "id": "Lightricks/LTX-2.3-22b-LoRA-Cinemagraph",
+        "author": null,
+        "downloads": 2341,
+        "likes": 41
+    },
+    {
+        "id": "Ateron/Gemma-4-Novelist-Eclipse-31B",
+        "author": null,
+        "downloads": 890,
+        "likes": 30
+    },
+    {
+        "id": "SOLRICKS/ltx-2.3-product-ad-style",
+        "author": null,
+        "downloads": 0,
+        "likes": 40
+    },
+    {
+        "id": "nvidia/stormcast-conus",
+        "author": null,
+        "downloads": 50,
+        "likes": 5
+    },
+    {
+        "id": "jlnsrk/GLM-5.2-colibri-int4",
+        "author": null,
+        "downloads": 10230,
+        "likes": 154
+    },
+    {
+        "id": "migtissera/Tess-4-27B-GGUF",
+        "author": null,
+        "downloads": 29659,
+        "likes": 34
+    },
+    {
+        "id": "SC117/Qwen-AgentWorld-35B-A3B-MTP-Uncensored-APEX-GGUF",
+        "author": null,
+        "downloads": 21606,
+        "likes": 11
+    },
+    {
+        "id": "CornLogic/10EROS_1.4_Int8_ConvRot",
+        "author": null,
+        "downloads": 31136,
+        "likes": 23
+    },
+    {
+        "id": "zenosai/MonkeyOCRv2-S",
+        "author": null,
+        "downloads": 10756,
+        "likes": 11
+    },
+    {
+        "id": "SC117/Ornith-1.0-35B-Heretic-MTP-APEX-GGUF",
+        "author": null,
+        "downloads": 31428,
+        "likes": 23
+    },
+    {
+        "id": "vantagewithai/LTX2.3-10Eros-1.4-GGUF",
+        "author": null,
+        "downloads": 40786,
+        "likes": 23
+    },
+    {
+        "id": "mradermacher/Huihui-ThinkingCap-Qwen3.6-27B-abliterated-i1-GGUF",
+        "author": null,
+        "downloads": 46168,
+        "likes": 9
+    },
+    {
+        "id": "nvidia/Nemotron-3-Embed-8B-BF16",
+        "author": null,
+        "downloads": 108013,
+        "likes": 80
+    },
+    {
+        "id": "nightmedia/Qwen3.6-27B-Architect-Polaris2-Fable-B-F451",
+        "author": null,
+        "downloads": 2535,
+        "likes": 16
+    },
+    {
+        "id": "joeygambino/joyai-echo-multishot-workflow",
+        "author": null,
+        "downloads": 0,
+        "likes": 11
+    },
+    {
+        "id": "Lightricks/LTX-2.3-22b-LoRA-Foley-V2A",
+        "author": null,
+        "downloads": 2266,
+        "likes": 32
+    },
+    {
+        "id": "AlayaLab/AlayaWorld",
+        "author": null,
+        "downloads": 25196,
+        "likes": 19
+    },
+    {
+        "id": "bartowski/bottlecapai_ThinkingCap-Qwen3.6-27B-GGUF",
+        "author": null,
+        "downloads": 8122,
+        "likes": 7
+    },
+    {
+        "id": "SC117/Agents-A1-Uncensored-MTP-APEX-GGUF",
+        "author": null,
+        "downloads": 17879,
+        "likes": 12
+    },
+    {
+        "id": "nightmedia/Qwen3.6-27B-Architect-Polaris2-Fable-B-F451-Tess",
+        "author": null,
+        "downloads": 1090,
+        "likes": 5
+    },
+    {
+        "id": "BananaMind/BananaMind-2-Medium",
+        "author": null,
+        "downloads": 502,
+        "likes": 15
+    },
+    {
+        "id": "0x4c48/LATO.2",
+        "author": null,
+        "downloads": 0,
+        "likes": 11
+    },
+    {
+        "id": "baseten/GLM-5.2-Vision-FP8",
+        "author": null,
+        "downloads": 178,
+        "likes": 7
+    },
+    {
+        "id": "bench-labs/PixelModel-v2",
+        "author": null,
+        "downloads": 1351,
+        "likes": 10
+    },
+    {
+        "id": "EschaLabs/escha-runtime-qwen3moe",
+        "author": null,
+        "downloads": 0,
+        "likes": 5
+    },
+    {
+        "id": "UntMods/Krea2_Chars_LoRA",
+        "author": null,
+        "downloads": 0,
+        "likes": 5
+    },
+    {
+        "id": "ProCreations/grug-27b-qat-q4-gguf",
+        "author": null,
+        "downloads": 3012,
+        "likes": 15
+    },
+    {
+        "id": "ProCreations/grug-35b-v2",
+        "author": null,
+        "downloads": 691,
+        "likes": 10
+    },
+    {
+        "id": "0xdfi/GLM-5.2-QuantTrio-Abliterated",
+        "author": null,
+        "downloads": 150,
+        "likes": 6
+    },
+    {
+        "id": "jcbtc/Laguna-S-2.1-NVFP4-GGUF",
+        "author": null,
+        "downloads": 958,
+        "likes": 5
+    },
+    {
+        "id": "amd/Instella-MoE-16B-A3B-DPO",
+        "author": null,
+        "downloads": 102,
+        "likes": 5
+    },
+    {
+        "id": "mlx-community/KAT-Coder-V2.5-Dev-OptiQ-4bit",
+        "author": null,
+        "downloads": 1288,
+        "likes": 5
+    },
+    {
+        "id": "DarkArtsForge/Zepar-24B-v1",
+        "author": null,
+        "downloads": 89,
+        "likes": 5
+    },
+    {
+        "id": "rubenroy/NeuraNET-Zero-18B-Preview",
+        "author": null,
+        "downloads": 97,
+        "likes": 5
+    },
+    {
+        "id": "tsfrm/vacuum-16t",
+        "author": null,
+        "downloads": 800,
+        "likes": 5
+    },
+    {
+        "id": "pipenetwork/Kimi-K3-REAP73-zh-code-MLX-mxfp4-q8",
+        "author": null,
+        "downloads": 3110,
+        "likes": 5
+    },
+    {
+        "id": "EximiusLabs/fusion-embedding-2-k3-vision",
+        "author": null,
+        "downloads": 279,
+        "likes": 5
+    },
+    {
+        "id": "inference-optimization/Kimi-K3-0.40B-MXFP4",
+        "author": null,
+        "downloads": 1065,
+        "likes": 5
+    },
+    {
+        "id": "protoLabsAI/ThinkingCap-Qwen3.6-27B-heretic-MTP-GGUF",
+        "author": null,
+        "downloads": 1796,
+        "likes": 5
+    },
+    {
+        "id": "willfalco/GLM-5.2-EXL3-TR3-3.25bpw",
+        "author": null,
+        "downloads": 91,
+        "likes": 5
+    },
+    {
+        "id": "bottlecapai/ThinkingCap-Qwen3.6-27B-NVFP4",
+        "author": null,
+        "downloads": 531,
+        "likes": 5
+    },
+    {
+        "id": "onepiece1999/StatePlay",
+        "author": null,
+        "downloads": 0,
+        "likes": 5
+    },
+    {
+        "id": "unsloth/Inkling-Small",
+        "author": null,
+        "downloads": 0,
+        "likes": 5
+    },
+    {
+        "id": "openbmb/MiniCPM5-1B-GGUF",
+        "author": null,
+        "downloads": 101578,
+        "likes": 219
+    },
+    {
+        "id": "ProsusAI/finbert",
+        "author": null,
+        "downloads": 6080783,
+        "likes": 1207
+    },
+    {
+        "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+        "author": null,
+        "downloads": 55559128,
+        "likes": 1338
+    },
+    {
+        "id": "bigscience/bloom",
+        "author": null,
+        "downloads": 10147,
+        "likes": 5032
+    },
+    {
+        "id": "Salesforce/blip-image-captioning-base",
+        "author": null,
+        "downloads": 1857260,
+        "likes": 872
+    },
+    {
+        "id": "patrickjohncyh/fashion-clip",
+        "author": null,
+        "downloads": 3067846,
+        "likes": 289
+    },
+    {
+        "id": "ggerganov/whisper.cpp",
+        "author": null,
+        "downloads": 0,
+        "likes": 1516
+    },
+    {
+        "id": "BAAI/bge-small-zh-v1.5",
+        "author": null,
+        "downloads": 4644633,
+        "likes": 130
+    },
+    {
+        "id": "hacksider/deep-live-cam",
+        "author": null,
+        "downloads": 17001,
+        "likes": 121
+    },
+    {
+        "id": "stabilityai/stable-video-diffusion-img2vid-xt",
+        "author": null,
+        "downloads": 207889,
+        "likes": 3365
+    },
+    {
+        "id": "facebook/seamless-m4t-v2-large",
+        "author": null,
+        "downloads": 259617,
+        "likes": 997
+    },
+    {
+        "id": "stabilityai/stable-video-diffusion-img2vid-xt-1-1",
+        "author": null,
+        "downloads": 5144,
+        "likes": 1066
+    },
+    {
+        "id": "mistralai/Mistral-7B-Instruct-v0.3",
+        "author": null,
+        "downloads": 5287921,
+        "likes": 2734
+    },
+    {
+        "id": "LyliaEngine/Pony_Diffusion_V6_XL",
+        "author": null,
+        "downloads": 178870,
+        "likes": 141
+    },
+    {
+        "id": "Lewdiculous/L3-8B-Stheno-v3.2-GGUF-IQ-Imatrix",
+        "author": null,
+        "downloads": 15741,
+        "likes": 267
+    },
+    {
+        "id": "gliner-community/gliner_large-v2.5",
+        "author": null,
+        "downloads": 622,
+        "likes": 30
+    },
+    {
+        "id": "meta-llama/Llama-3.1-8B",
+        "author": null,
+        "downloads": 1555368,
+        "likes": 2347
+    },
+    {
+        "id": "google/gemma-2-2b-it",
+        "author": null,
+        "downloads": 607534,
+        "likes": 1434
+    },
+    {
+        "id": "city96/FLUX.1-dev-gguf",
+        "author": null,
+        "downloads": 125125,
+        "likes": 1390
+    },
+    {
+        "id": "nvidia/parakeet-tdt_ctc-110m",
+        "author": null,
+        "downloads": 3640,
+        "likes": 51
+    },
+    {
+        "id": "stabilityai/stable-diffusion-3.5-medium",
+        "author": null,
+        "downloads": 97285,
+        "likes": 1025
+    },
+    {
+        "id": "fishaudio/fish-speech-1.5",
+        "author": null,
+        "downloads": 4362,
+        "likes": 762
+    },
+    {
+        "id": "livekit/turn-detector",
+        "author": null,
+        "downloads": 690117,
+        "likes": 127
+    },
+    {
+        "id": "DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF",
+        "author": null,
+        "downloads": 49704,
+        "likes": 600
+    },
+    {
+        "id": "cagliostrolab/animagine-xl-4.0",
+        "author": null,
+        "downloads": 199303,
+        "likes": 473
+    },
+    {
+        "id": "onnx-community/Kokoro-82M-v1.0-ONNX",
+        "author": null,
+        "downloads": 1381675,
+        "likes": 240
+    },
+    {
+        "id": "litert-community/DeepSeek-R1-Distill-Qwen-1.5B",
+        "author": null,
+        "downloads": 76818,
+        "likes": 50
+    },
+    {
+        "id": "Wan-AI/Wan2.1-T2V-1.3B",
+        "author": null,
+        "downloads": 50662,
+        "likes": 497
+    },
+    {
+        "id": "sesame/csm-1b",
+        "author": null,
+        "downloads": 226493,
+        "likes": 2418
+    },
+    {
+        "id": "facebook/UMA",
+        "author": null,
+        "downloads": 117,
+        "likes": 316
+    },
+    {
+        "id": "OnomaAIResearch/Illustrious-XL-v2.0",
+        "author": null,
+        "downloads": 0,
+        "likes": 198
+    },
+    {
+        "id": "Qwen/Qwen3-32B",
+        "author": null,
+        "downloads": 9655582,
+        "likes": 727
+    },
+    {
+        "id": "ibm-granite/granite-docling-258M",
+        "author": null,
+        "downloads": 408581,
+        "likes": 1234
+    },
+    {
+        "id": "lerobot/smolvla_base",
+        "author": null,
+        "downloads": 67589,
+        "likes": 408
+    },
+    {
+        "id": "google/gemma-3n-E4B-it-litert-lm",
+        "author": null,
+        "downloads": 18585,
+        "likes": 477
+    },
+    {
+        "id": "IndexTeam/IndexTTS-2",
+        "author": null,
+        "downloads": 15584,
+        "likes": 765
+    },
+    {
+        "id": "zai-org/GLM-4.1V-9B-Thinking",
+        "author": null,
+        "downloads": 415609,
+        "likes": 783
+    },
+    {
+        "id": "mistralai/Voxtral-Mini-3B-2507",
+        "author": null,
+        "downloads": 518211,
+        "likes": 667
+    },
+    {
+        "id": "mistralai/Voxtral-Small-24B-2507",
+        "author": null,
+        "downloads": 270724,
+        "likes": 517
+    },
+    {
+        "id": "zai-org/GLM-4.5-Air",
+        "author": null,
+        "downloads": 488656,
+        "likes": 624
+    },
+    {
+        "id": "nvidia/Cosmos-Predict2.5-2B",
+        "author": null,
+        "downloads": 25997,
+        "likes": 152
+    },
+    {
+        "id": "jhu-clsp/mmBERT-base",
+        "author": null,
+        "downloads": 592238,
+        "likes": 227
+    },
+    {
+        "id": "Wan-AI/Wan2.2-I2V-A14B",
+        "author": null,
+        "downloads": 19501,
+        "likes": 760
+    },
+    {
+        "id": "unsloth/GLM-4.5-Air-GGUF",
+        "author": null,
+        "downloads": 34130,
+        "likes": 184
+    },
+    {
+        "id": "unsloth/gpt-oss-120b-GGUF",
+        "author": null,
+        "downloads": 107592,
+        "likes": 287
+    },
+    {
+        "id": "DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf",
+        "author": null,
+        "downloads": 25480,
+        "likes": 517
+    },
+    {
+        "id": "swiss-ai/Apertus-8B-Instruct-2509",
+        "author": null,
+        "downloads": 325955,
+        "likes": 482
+    },
+    {
+        "id": "Wan-AI/Wan2.2-S2V-14B",
+        "author": null,
+        "downloads": 72613,
+        "likes": 456
+    },
+    {
+        "id": "pixai-labs/pixai-tagger-v0.9",
+        "author": null,
+        "downloads": 0,
+        "likes": 189
+    },
+    {
+        "id": "moonshotai/Kimi-K2-Instruct-0905",
+        "author": null,
+        "downloads": 79137,
+        "likes": 786
+    },
+    {
+        "id": "pipecat-ai/smart-turn-v3",
+        "author": null,
+        "downloads": 0,
+        "likes": 186
+    },
+    {
+        "id": "Qwen/Qwen3-Omni-30B-A3B-Instruct",
+        "author": null,
+        "downloads": 1446072,
+        "likes": 966
+    },
+    {
+        "id": "Qwen/Qwen-Image-Edit-2509",
+        "author": null,
+        "downloads": 410275,
+        "likes": 1222
+    },
+    {
+        "id": "tencent/HunyuanImage-3.0-Instruct",
+        "author": null,
+        "downloads": 42788,
+        "likes": 1016
+    },
+    {
+        "id": "JunhaoZhuang/FlashVSR",
+        "author": null,
+        "downloads": 3994,
+        "likes": 193
+    },
+    {
+        "id": "Qwen/Qwen3-VL-2B-Instruct",
+        "author": null,
+        "downloads": 2130972,
+        "likes": 448
+    },
+    {
+        "id": "Thomcles/Chatterbox-TTS-Persian-Farsi",
+        "author": null,
+        "downloads": 0,
+        "likes": 83
+    },
+    {
+        "id": "nvidia/diar_streaming_sortformer_4spk-v2.1",
+        "author": null,
+        "downloads": 102386,
+        "likes": 92
+    },
+    {
+        "id": "unsloth/Qwen3-VL-4B-Instruct-GGUF",
+        "author": null,
+        "downloads": 241326,
+        "likes": 63
+    },
+    {
+        "id": "JunhaoZhuang/FlashVSR-v1.1",
+        "author": null,
+        "downloads": 15036,
+        "likes": 148
+    },
+    {
+        "id": "mistralai/Ministral-3-3B-Instruct-2512",
+        "author": null,
+        "downloads": 595853,
+        "likes": 270
+    },
+    {
+        "id": "Novice25/Qwen-Image-Edit-Rapid-AIO-GGUF",
+        "author": null,
+        "downloads": 45728,
+        "likes": 265
+    },
+    {
+        "id": "mistralai/Devstral-Small-2-24B-Instruct-2512",
+        "author": null,
+        "downloads": 249699,
+        "likes": 637
+    },
+    {
+        "id": "alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union-2.1",
+        "author": null,
+        "downloads": 75617,
+        "likes": 434
+    },
+    {
+        "id": "FunAudioLLM/Fun-ASR-Nano-2512",
+        "author": null,
+        "downloads": 3267,
+        "likes": 223
+    },
+    {
+        "id": "FunAudioLLM/Fun-ASR-MLT-Nano-2512",
+        "author": null,
+        "downloads": 330,
+        "likes": 58
+    },
+    {
+        "id": "LiquidAI/LFM2.5-Audio-1.5B",
+        "author": null,
+        "downloads": 1276,
+        "likes": 439
+    },
+    {
+        "id": "zai-org/GLM-4.7",
+        "author": null,
+        "downloads": 60246,
+        "likes": 2051
+    },
+    {
+        "id": "Qwen/Qwen-Image-2512",
+        "author": null,
+        "downloads": 66810,
+        "likes": 914
+    },
+    {
+        "id": "unsloth/Qwen-Image-2512-GGUF",
+        "author": null,
+        "downloads": 80126,
+        "likes": 392
+    },
+    {
+        "id": "Lightricks/LTX-2",
+        "author": null,
+        "downloads": 419976,
+        "likes": 1769
+    },
+    {
+        "id": "black-forest-labs/FLUX.2-klein-base-9B",
+        "author": null,
+        "downloads": 112760,
+        "likes": 275
+    },
+    {
+        "id": "unsloth/GLM-4.7-Flash-GGUF",
+        "author": null,
+        "downloads": 70130,
+        "likes": 681
+    },
+    {
+        "id": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+        "author": null,
+        "downloads": 668964,
+        "likes": 381
+    },
+    {
+        "id": "raincandy-u/Rain-100M",
+        "author": null,
+        "downloads": 26,
+        "likes": 22
+    },
+    {
+        "id": "ACE-Step/Ace-Step1.5",
+        "author": null,
+        "downloads": 59966,
+        "likes": 810
+    },
+    {
+        "id": "Qwen/Qwen3-ASR-0.6B",
+        "author": null,
+        "downloads": 3141459,
+        "likes": 324
+    },
+    {
+        "id": "Soul-AILab/SoulX-FlashHead-1_3B",
+        "author": null,
+        "downloads": 1635,
+        "likes": 54
+    },
+    {
+        "id": "nvidia/GEAR-SONIC",
+        "author": null,
+        "downloads": 0,
+        "likes": 61
+    },
+    {
+        "id": "GuangyuanSD/FLUX.2-klein-9B-Blitz-ComfyUI",
+        "author": null,
+        "downloads": 7755,
+        "likes": 64
+    },
+    {
+        "id": "TheDrummer/Skyfall-31B-v4.2",
+        "author": null,
+        "downloads": 3064,
+        "likes": 75
+    },
+    {
+        "id": "istomin9192/whisper-small-sr",
+        "author": null,
+        "downloads": 150,
+        "likes": 5
+    },
+    {
+        "id": "Qwen/Qwen3.5-397B-A17B",
+        "author": null,
+        "downloads": 402058,
+        "likes": 1544
+    },
+    {
+        "id": "diroverflo/FLux_Klein_9B_NSFW",
+        "author": null,
+        "downloads": 42283,
+        "likes": 49
+    },
+    {
+        "id": "Qwen/Qwen3.5-35B-A3B",
+        "author": null,
+        "downloads": 2580497,
+        "likes": 1478
+    },
+    {
+        "id": "Qwen/Qwen3.5-0.8B-Base",
+        "author": null,
+        "downloads": 843617,
+        "likes": 89
+    },
+    {
+        "id": "unsloth/Qwen3.5-0.8B-GGUF",
+        "author": null,
+        "downloads": 286436,
+        "likes": 195
+    },
+    {
+        "id": "mlx-community/Qwen3.5-9B-MLX-4bit",
+        "author": null,
+        "downloads": 21202,
+        "likes": 150
+    },
+    {
+        "id": "nvidia/Alpamayo-1.5-10B",
+        "author": null,
+        "downloads": 51556,
+        "likes": 96
+    },
+    {
+        "id": "Lightricks/LTX-2.3-fp8",
+        "author": null,
+        "downloads": 787772,
+        "likes": 126
+    },
+    {
+        "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF",
+        "author": null,
+        "downloads": 10012,
+        "likes": 187
+    },
+    {
+        "id": "black-forest-labs/FLUX.2-klein-9b-kv",
+        "author": null,
+        "downloads": 8119,
+        "likes": 203
+    },
+    {
+        "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+        "author": null,
+        "downloads": 95703,
+        "likes": 1460
+    },
+    {
+        "id": "Nguuma/security-slm-unsloth-1.5b",
+        "author": null,
+        "downloads": 2688,
+        "likes": 51
+    },
+    {
+        "id": "rodrigomt/s2-pro-gguf",
+        "author": null,
+        "downloads": 7103,
+        "likes": 62
+    },
+    {
+        "id": "pangram/editlens_Llama-3.2-3B",
+        "author": null,
+        "downloads": 2934,
+        "likes": 14
+    },
+    {
+        "id": "prism-ml/Bonsai-8B-gguf",
+        "author": null,
+        "downloads": 62799,
+        "likes": 761
+    },
+    {
+        "id": "ai-sage/GigaChat3.1-10B-A1.8B-GGUF",
+        "author": null,
+        "downloads": 3914,
+        "likes": 81
+    },
+    {
+        "id": "litert-community/gemma-4-E2B-it-litert-lm",
+        "author": null,
+        "downloads": 1158866,
+        "likes": 380
+    },
+    {
+        "id": "microsoft/harrier-oss-v1-270m",
+        "author": null,
+        "downloads": 197787,
+        "likes": 188
+    },
+    {
+        "id": "KRAFTON/Raon-Speech-9B",
+        "author": null,
+        "downloads": 6605,
+        "likes": 47
+    },
+    {
+        "id": "jinaai/jina-embeddings-v5-omni-small",
+        "author": null,
+        "downloads": 104908,
+        "likes": 114
+    },
+    {
+        "id": "llmfan46/gemma-4-31B-it-uncensored-heretic-GGUF",
+        "author": null,
+        "downloads": 79898,
+        "likes": 161
+    },
+    {
+        "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+        "author": null,
+        "downloads": 30485,
+        "likes": 1697
+    },
+    {
+        "id": "llmfan46/gemma-4-26B-A4B-it-ultra-uncensored-heretic-GGUF",
+        "author": null,
+        "downloads": 35595,
+        "likes": 142
+    },
+    {
+        "id": "google/tipsv2-g14",
+        "author": null,
+        "downloads": 1691,
+        "likes": 24
+    },
+    {
+        "id": "zerofata/G4-MeroMero-26B-A4B",
+        "author": null,
+        "downloads": 709,
+        "likes": 104
+    },
+    {
+        "id": "mudler/Qwen3.6-35B-A3B-APEX-GGUF",
+        "author": null,
+        "downloads": 40566,
+        "likes": 190
+    },
+    {
+        "id": "prism-ml/Ternary-Bonsai-8B-gguf",
+        "author": null,
+        "downloads": 118494,
+        "likes": 129
+    },
+    {
+        "id": "barozp/Qwen3.6-28B-REAP20-A3B-GGUF",
+        "author": null,
+        "downloads": 16004,
+        "likes": 65
+    },
+    {
+        "id": "JTS-AI/JaiTTS-F5TTS",
+        "author": null,
+        "downloads": 9559,
+        "likes": 10
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-V4-Flash-Base",
+        "author": null,
+        "downloads": 237536,
+        "likes": 285
+    },
+    {
+        "id": "vrgamedevgirl84/LTX_2.3_Crisp_Enhance_Style_LoRa",
+        "author": null,
+        "downloads": 5466,
+        "likes": 43
+    },
+    {
+        "id": "z-lab/Qwen3.6-27B-DFlash",
+        "author": null,
+        "downloads": 113732,
+        "likes": 386
+    },
+    {
+        "id": "inclusionAI/Ling-2.6-1T",
+        "author": null,
+        "downloads": 1497,
+        "likes": 506
+    },
+    {
+        "id": "google/gemma-4-E2B-it-qat-q4_0-gguf",
+        "author": null,
+        "downloads": 139024,
+        "likes": 93
+    },
+    {
+        "id": "TenStrip/LTX2.3-10Eros_Workflows",
+        "author": null,
+        "downloads": 0,
+        "likes": 127
+    },
+    {
+        "id": "osunlp/QUEST-35B-RL",
+        "author": null,
+        "downloads": 1396,
+        "likes": 31
+    },
+    {
+        "id": "tencent/Hy-MT2-30B-A3B",
+        "author": null,
+        "downloads": 178301,
+        "likes": 484
+    },
+    {
+        "id": "nvidia/instant-nurec",
+        "author": null,
+        "downloads": 348,
+        "likes": 24
+    },
+    {
+        "id": "unsloth/Qwen3.5-4B-MTP-GGUF",
+        "author": null,
+        "downloads": 76352,
+        "likes": 69
+    },
+    {
+        "id": "basaltlabsai/monolith-1.0",
+        "author": null,
+        "downloads": 0,
+        "likes": 51
+    },
+    {
+        "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
+        "author": null,
+        "downloads": 37456,
+        "likes": 208
+    },
+    {
+        "id": "PeppX/gemma-4-e2b-uncensored-litertlm",
+        "author": null,
+        "downloads": 2666,
+        "likes": 14
+    },
+    {
+        "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+        "author": null,
+        "downloads": 57793,
+        "likes": 387
+    },
+    {
+        "id": "Muapi/ltx_2.3_multi-ref-character-storyboard",
+        "author": null,
+        "downloads": 416,
+        "likes": 7
+    },
+    {
+        "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+        "author": null,
+        "downloads": 51346,
+        "likes": 254
+    },
+    {
+        "id": "JetBrains/Mellum2-12B-A2.5B-Thinking",
+        "author": null,
+        "downloads": 6221,
+        "likes": 327
+    },
+    {
+        "id": "ByteDance/Bernini-R",
+        "author": null,
+        "downloads": 237,
+        "likes": 292
+    },
+    {
+        "id": "google/gemma-4-E4B-it-qat-mobile-ct",
+        "author": null,
+        "downloads": 35399,
+        "likes": 26
+    },
+    {
+        "id": "Comfy-Org/Qwen3-VL",
+        "author": null,
+        "downloads": 0,
+        "likes": 49
+    },
+    {
+        "id": "bertbobson/Ideogram-4-INT8-ConvRot",
+        "author": null,
+        "downloads": 0,
+        "likes": 57
+    },
+    {
+        "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+        "author": null,
+        "downloads": 40519,
+        "likes": 419
+    },
+    {
+        "id": "unsloth/gemma-4-E2B-it-qat-GGUF",
+        "author": null,
+        "downloads": 105173,
+        "likes": 66
+    },
+    {
+        "id": "unsloth/gemma-4-31B-it-qat-GGUF",
+        "author": null,
+        "downloads": 197898,
+        "likes": 169
+    },
+    {
+        "id": "RTX2o/Seedance-2-AI-Video-Generator",
+        "author": null,
+        "downloads": 0,
+        "likes": 6
+    },
+    {
+        "id": "Comfy-Org/Bernini-R",
+        "author": null,
+        "downloads": 0,
+        "likes": 67
+    },
+    {
+        "id": "nvidia/diffusiongemma-26B-A4B-it-NVFP4",
+        "author": null,
+        "downloads": 1710124,
+        "likes": 112
+    },
+    {
+        "id": "Motif-Technologies/Motif-VAE",
+        "author": null,
+        "downloads": 38,
+        "likes": 11
+    },
+    {
+        "id": "cella110n/cl_tagger_v2",
+        "author": null,
+        "downloads": 0,
+        "likes": 13
+    },
+    {
+        "id": "tvall43/Qwen3.6-14B-A3B-FableVibes",
+        "author": null,
+        "downloads": 3687,
+        "likes": 21
+    },
+    {
+        "id": "CohereLabs/North-Mini-Code-1.0-w4a16",
+        "author": null,
+        "downloads": 1222,
+        "likes": 58
+    },
+    {
+        "id": "PatSnap/Hiro-Chemical-Insights",
+        "author": null,
+        "downloads": 53,
+        "likes": 4
+    },
+    {
+        "id": "PatSnap/Hiro-Pharma",
+        "author": null,
+        "downloads": 71,
+        "likes": 4
+    },
+    {
+        "id": "Lightricks/LTX-2.3-22b-IC-LoRA-Cross-Eyed",
+        "author": null,
+        "downloads": 1299,
+        "likes": 15
+    },
+    {
+        "id": "PhalaCloud/GLM-5.2-W4AFP8",
+        "author": null,
+        "downloads": 54759,
+        "likes": 43
+    },
+    {
+        "id": "Gryphe/Gemma-4-26B-A4B-StyleTune-V2",
+        "author": null,
+        "downloads": 2404,
+        "likes": 47
+    },
+    {
+        "id": "Winnougan/Krea-2-Base-Turbo-NVFP4-FP8-INT8",
+        "author": null,
+        "downloads": 0,
+        "likes": 100
+    },
+    {
+        "id": "realrebelai/KREA-2_GGUFs",
+        "author": null,
+        "downloads": 47473,
+        "likes": 41
+    },
+    {
+        "id": "Cseti/LTX2.3-22B_IC-LoRA-Cameraman_v2",
+        "author": null,
+        "downloads": 0,
+        "likes": 53
+    },
+    {
+        "id": "Beinsezii/Krea-2-Turbo-Projector-Scale-LoRA-Diffusers",
+        "author": null,
+        "downloads": 24088,
+        "likes": 65
+    },
+    {
+        "id": "rzgar/Wan2.2-Bernini-R-Motion-Enhancer-n4w-i2v",
+        "author": null,
+        "downloads": 4835,
+        "likes": 13
+    },
+    {
+        "id": "deadman44/Krea-2_LoRA",
+        "author": null,
+        "downloads": 0,
+        "likes": 17
+    },
+    {
+        "id": "rdtand/Qwen3.6-27B-PrismaAURA-5.5bit-vllm",
+        "author": null,
+        "downloads": 19651,
+        "likes": 26
+    },
+    {
+        "id": "Qwen/Qwen3-ASR-1.7B-hf",
+        "author": null,
+        "downloads": 81009,
+        "likes": 43
+    },
+    {
+        "id": "ilkerzgi/fal-Krea-2-Style-LoRAs",
+        "author": null,
+        "downloads": 0,
+        "likes": 162
+    },
+    {
+        "id": "s-batman/Ornith-1.0-35B-NVFP4-MTP-GGUF",
+        "author": null,
+        "downloads": 42021,
+        "likes": 38
+    },
+    {
+        "id": "TenStrip/LTX2.3_DMD_Lora",
+        "author": null,
+        "downloads": 0,
+        "likes": 35
+    },
+    {
+        "id": "rizzoaiacademy/rizzo-pii-0.3B",
+        "author": null,
+        "downloads": 892,
+        "likes": 7
+    },
+    {
+        "id": "wraps/FLUX.2-klein-9B-Blitz-ComfyUI",
+        "author": null,
+        "downloads": 5010,
+        "likes": 23
+    },
+    {
+        "id": "armand0e/Qwen3.6-35B-A3B-Fable-5-Distill",
+        "author": null,
+        "downloads": 2110,
+        "likes": 17
+    },
+    {
+        "id": "MuScriptor/muscriptor-medium",
+        "author": null,
+        "downloads": 2990,
+        "likes": 56
+    },
+    {
+        "id": "MuScriptor/muscriptor-small",
+        "author": null,
+        "downloads": 1133,
+        "likes": 26
+    },
+    {
+        "id": "phaseonx11/GLM-5.2-Uncensored-GGUF",
+        "author": null,
+        "downloads": 3461,
+        "likes": 26
+    },
+    {
+        "id": "artsyww/KREA2REALVAE",
+        "author": null,
+        "downloads": 0,
+        "likes": 10
+    },
+    {
+        "id": "XXH333/WordVoice-base-0.5B",
+        "author": null,
+        "downloads": 0,
+        "likes": 11
+    },
+    {
+        "id": "prism-ml/Ternary-Bonsai-27B-unpacked",
+        "author": null,
+        "downloads": 2363,
+        "likes": 19
+    },
+    {
+        "id": "Moore2877/Qwen-Fixed-Chat-Templates-llamacpp",
+        "author": null,
+        "downloads": 0,
+        "likes": 18
+    },
+    {
+        "id": "nvidia/Nemotron-Labs-Audex-2B",
+        "author": null,
+        "downloads": 2736,
+        "likes": 86
+    },
+    {
+        "id": "nvidia/Cosmos3-Super-Text2Image-4Step",
+        "author": null,
+        "downloads": 663,
+        "likes": 10
+    },
+    {
+        "id": "protoLabsAI/ThinkingCap-Qwen3.6-27B-MTP-GGUF",
+        "author": null,
+        "downloads": 47127,
+        "likes": 56
+    },
+    {
+        "id": "robbyant/lingbot-world-v2-14b-causal-fast",
+        "author": null,
+        "downloads": 0,
+        "likes": 113
+    },
+    {
+        "id": "ressl/MiniMax-M3-uncensored",
+        "author": null,
+        "downloads": 708,
+        "likes": 11
+    },
+    {
+        "id": "poolside/Laguna-S-2.1-DFlash-INT4",
+        "author": null,
+        "downloads": 4082,
+        "likes": 8
+    },
+    {
+        "id": "LiquidAI/LFM2.5-Encoder-350M-Policy-Linter",
+        "author": null,
+        "downloads": 45,
+        "likes": 4
+    },
+    {
+        "id": "BAAI/Orca-4B",
+        "author": null,
+        "downloads": 294,
+        "likes": 12
+    },
+    {
+        "id": "NAMAA-Space/Cohere-Speech-Tashkeel-2B",
+        "author": null,
+        "downloads": 2397,
+        "likes": 22
+    },
+    {
+        "id": "InternScience/Agents-A1-4B-Q8_0-GGUF",
+        "author": null,
+        "downloads": 13111,
+        "likes": 40
+    },
+    {
+        "id": "XiaomiRobotics/Xiaomi-Robotics-U0",
+        "author": null,
+        "downloads": 122,
+        "likes": 24
+    },
+    {
+        "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
+        "author": null,
+        "downloads": 4304,
+        "likes": 36
+    },
+    {
+        "id": "tencent/Hy-Embodied-RxBrain-1.0",
+        "author": null,
+        "downloads": 330,
+        "likes": 53
+    },
+    {
+        "id": "ai-sage/GigaAM-Multilingual",
+        "author": null,
+        "downloads": 7195,
+        "likes": 72
+    },
+    {
+        "id": "OpenMOSS-Team/MOSS-VL-Realtime",
+        "author": null,
+        "downloads": 2161,
+        "likes": 98
+    },
+    {
+        "id": "yijunwang2/krea2-outpaint",
+        "author": null,
+        "downloads": 2846,
+        "likes": 34
+    },
+    {
+        "id": "ProCreations/grug-35b",
+        "author": null,
+        "downloads": 1041,
+        "likes": 15
+    },
+    {
+        "id": "Danny-Dasilva/Bonsai-27B-antidoom-1bit-DSpark",
+        "author": null,
+        "downloads": 4384,
+        "likes": 10
+    },
+    {
+        "id": "ManniX-ITA/Qwen3.6-27B-A3B-Coder-MTP-GGUF",
+        "author": null,
+        "downloads": 42883,
+        "likes": 18
+    },
+    {
+        "id": "OS-Software/Ternary-Bonsai-27B-heretic-ja-GGUF",
+        "author": null,
+        "downloads": 10368,
+        "likes": 19
+    },
+    {
+        "id": "nvidia/MiniMax-M3-DSpark",
+        "author": null,
+        "downloads": 450,
+        "likes": 10
+    },
+    {
+        "id": "internlm/Intern-S2-Preview-397B",
+        "author": null,
+        "downloads": 387,
+        "likes": 64
+    },
+    {
+        "id": "m9e/MiniMax-M3-uncensored-RP-LC-Q4HQ-GGUF",
+        "author": null,
+        "downloads": 3483,
+        "likes": 7
+    },
+    {
+        "id": "FINAL-Bench/Aether-7B-5Attn",
+        "author": null,
+        "downloads": 8085,
+        "likes": 45
+    },
+    {
+        "id": "Baragi-AI/Anima-Style-Embedding",
+        "author": null,
+        "downloads": 151,
+        "likes": 5
+    },
+    {
+        "id": "Comfy-Org/JoyAI-Image-Edit",
+        "author": null,
+        "downloads": 0,
+        "likes": 16
+    },
+    {
+        "id": "PLUS-WAVE/InfiniSplat",
+        "author": null,
+        "downloads": 0,
+        "likes": 5
+    },
+    {
+        "id": "Winnougan/Ideogram_Instant_NSFW",
+        "author": null,
+        "downloads": 4071,
+        "likes": 7
+    },
+    {
+        "id": "prov-gigapath/prov-gigapath-flash",
+        "author": null,
+        "downloads": 157,
+        "likes": 9
+    },
+    {
+        "id": "AngelSlim/Hy3-DFlash-B8",
+        "author": null,
+        "downloads": 113,
+        "likes": 4
+    },
+    {
+        "id": "bartowski/InternScience_Agents-A1-4B-GGUF",
+        "author": null,
+        "downloads": 6554,
+        "likes": 13
+    },
+    {
+        "id": "WaveCut/Nanbeige4.2-3B-heretic",
+        "author": null,
+        "downloads": 248,
+        "likes": 5
+    },
+    {
+        "id": "bartowski/Fara1.5-27B-GGUF",
+        "author": null,
+        "downloads": 12973,
+        "likes": 5
+    },
+    {
+        "id": "prometheusAIR/Solar-Open2-250B-GGUF",
+        "author": null,
+        "downloads": 4201,
+        "likes": 7
+    },
+    {
+        "id": "ProCreations/grug-27b-gguf",
+        "author": null,
+        "downloads": 5090,
+        "likes": 15
+    },
+    {
+        "id": "webAI-Official/TwIL-LM",
+        "author": null,
+        "downloads": 356,
+        "likes": 4
+    },
+    {
+        "id": "ProCreations/grug-27b-mtp",
+        "author": null,
+        "downloads": 166,
+        "likes": 5
+    },
+    {
+        "id": "amd/Instella-MoE-16B-A3B-Base",
+        "author": null,
+        "downloads": 252,
+        "likes": 4
+    },
+    {
+        "id": "amd/Instella-MoE-16B-A3B-Pretrain",
+        "author": null,
+        "downloads": 126,
+        "likes": 4
+    },
+    {
+        "id": "kakaocorp/kanana-2-1.3b-base",
+        "author": null,
+        "downloads": 112,
+        "likes": 4
+    },
+    {
+        "id": "mlx-community/LLaDA2.2-flash-OptiQ-2bit",
+        "author": null,
+        "downloads": 300,
+        "likes": 4
+    },
+    {
+        "id": "bartowski/Ateron_Gemma-4-Novelist-Eclipse-31B-GGUF",
+        "author": null,
+        "downloads": 3901,
+        "likes": 4
+    },
+    {
+        "id": "niklastr/chignolin-SSFM",
+        "author": null,
+        "downloads": 0,
+        "likes": 4
+    },
+    {
+        "id": "Koopah/Qwen3.6-35B-A3B-NVFP4-DSPARK",
+        "author": null,
+        "downloads": 473,
+        "likes": 4
+    },
+    {
+        "id": "FluidInference/inflect-v2-coreml",
+        "author": null,
+        "downloads": 190,
+        "likes": 4
+    },
+    {
+        "id": "cyankiwi/Laguna-S-2.1-AWQ-INT4",
+        "author": null,
+        "downloads": 499,
+        "likes": 4
+    },
+    {
+        "id": "mfielding92/SmartCode-Fable-5-CoT-Reasoning-QKVO-Qwen-3.6-27B-Distilled",
+        "author": null,
+        "downloads": 366,
+        "likes": 4
+    },
+    {
+        "id": "ARTPARK-IISc/DhVaani-0.5",
+        "author": null,
+        "downloads": 92,
+        "likes": 4
+    },
+    {
+        "id": "nerkyor/Qwen3.6-35B-A3B-DSV4Pro-SFT-GPT56Sol-RL-Agent-GGUF",
+        "author": null,
+        "downloads": 8420,
+        "likes": 4
+    },
+    {
+        "id": "shafire/Zero-Gemma4-E4B-OpenZero-GGUF",
+        "author": null,
+        "downloads": 1584,
+        "likes": 4
+    },
+    {
+        "id": "remixerdec/Inflect-Nano-v2-GGUF",
+        "author": null,
+        "downloads": 332,
+        "likes": 4
+    },
+    {
+        "id": "remixerdec/Inflect-Micro-v2-GGUF",
+        "author": null,
+        "downloads": 267,
+        "likes": 4
+    },
+    {
+        "id": "sakamakismile/Qwen3.6-27B-Fable-Fusion-MTP-NVFP4",
+        "author": null,
+        "downloads": 333,
+        "likes": 5
+    },
+    {
+        "id": "nbeerbower/Viking-Qwen3.6-27B",
+        "author": null,
+        "downloads": 55,
+        "likes": 4
+    },
+    {
+        "id": "ZeroOneAI/ZEO-Med-2",
+        "author": null,
+        "downloads": 0,
+        "likes": 4
+    },
+    {
+        "id": "mistral-experimental/AudioCPP-Voxtral-Mini-4B-Realtime-2602-GGUF",
+        "author": null,
+        "downloads": 368,
+        "likes": 4
+    },
+    {
+        "id": "Xenova/Kimi-K3-tokenizer",
+        "author": null,
+        "downloads": 0,
+        "likes": 4
+    },
+    {
+        "id": "DevQuasar/moonshotai.Kimi-K3-GGUF",
+        "author": null,
+        "downloads": 177,
+        "likes": 4
+    },
+    {
+        "id": "byteshape/Qwen-Image-2512-GGUF",
+        "author": null,
+        "downloads": 197,
+        "likes": 4
+    },
+    {
+        "id": "vovaRL/NanoColibri-Instruct",
+        "author": null,
+        "downloads": 51,
+        "likes": 4
+    },
+    {
+        "id": "Kijai/Wan_ID_V2V_comfy",
+        "author": null,
+        "downloads": 0,
+        "likes": 4
+    },
+    {
+        "id": "FunAudioLLM/Fun-ASR-Nano-2512-GGUF",
+        "author": null,
+        "downloads": 90,
+        "likes": 4
+    },
+    {
+        "id": "huihui-ai/Huihui-Laguna-S-2.1-abliterated-GGUF",
+        "author": null,
+        "downloads": 0,
+        "likes": 4
+    },
+    {
+        "id": "xzanomad/Qwen3.6-27B-Fable-Fusion-711-FP8",
+        "author": null,
+        "downloads": 0,
+        "likes": 4
+    },
+    {
+        "id": "google-bert/bert-base-chinese",
+        "author": null,
+        "downloads": 734659,
+        "likes": 1454
+    },
+    {
+        "id": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+        "author": null,
+        "downloads": 11255293,
+        "likes": 484
+    },
+    {
+        "id": "mattmdjaga/segformer_b2_clothes",
+        "author": null,
+        "downloads": 233428,
+        "likes": 506
+    },
+    {
+        "id": "lj1995/VoiceConversionWebUI",
+        "author": null,
+        "downloads": 0,
+        "likes": 1207
+    },
+    {
+        "id": "suno/bark",
+        "author": null,
+        "downloads": 40784,
+        "likes": 1544
+    },
+    {
+        "id": "Bingsu/adetailer",
+        "author": null,
+        "downloads": 10499562,
+        "likes": 754
+    },
+    {
+        "id": "Xenova/all-MiniLM-L6-v2",
+        "author": null,
+        "downloads": 2931731,
+        "likes": 135
+    },
+    {
+        "id": "intfloat/multilingual-e5-base",
+        "author": null,
+        "downloads": 7363642,
+        "likes": 379
+    },
+    {
+        "id": "facebook/mms-tts",
+        "author": null,
+        "downloads": 0,
+        "likes": 203
+    },
+    {
+        "id": "facebook/musicgen-small",
+        "author": null,
+        "downloads": 367359,
+        "likes": 501
+    },
+    {
+        "id": "meta-llama/Llama-2-13b-chat-hf",
+        "author": null,
+        "downloads": 210857,
+        "likes": 1120
+    },
+    {
+        "id": "diffusers/stable-diffusion-xl-1.0-inpainting-0.1",
+        "author": null,
+        "downloads": 128813,
+        "likes": 381
+    },
+    {
+        "id": "TheBloke/MythoMax-L2-13B-GGUF",
+        "author": null,
+        "downloads": 32216,
+        "likes": 265
+    },
+    {
+        "id": "IAHispano/Applio",
+        "author": null,
+        "downloads": 115,
+        "likes": 194
+    },
+    {
+        "id": "TinyLlama/TinyLlama-1.1B-Chat-v0.6",
+        "author": null,
+        "downloads": 4125,
+        "likes": 116
+    },
+    {
+        "id": "Systran/faster-whisper-large-v3",
+        "author": null,
+        "downloads": 1217013,
+        "likes": 626
+    },
+    {
+        "id": "stabilityai/sdxl-turbo",
+        "author": null,
+        "downloads": 1122509,
+        "likes": 2609
+    },
+    {
+        "id": "briaai/RMBG-1.4",
+        "author": null,
+        "downloads": 291208,
+        "likes": 2009
+    },
+    {
+        "id": "mradermacher/model_requests",
+        "author": null,
+        "downloads": 0,
+        "likes": 190
+    },
+    {
+        "id": "TMElyralab/MuseTalk",
+        "author": null,
+        "downloads": 0,
+        "likes": 162
+    },
+    {
+        "id": "microsoft/Phi-3-mini-4k-instruct",
+        "author": null,
+        "downloads": 546567,
+        "likes": 1448
+    },
+    {
+        "id": "prov-gigapath/prov-gigapath",
+        "author": null,
+        "downloads": 80160,
+        "likes": 184
+    },
+    {
+        "id": "google/gemma-2-9b-it",
+        "author": null,
+        "downloads": 356692,
+        "likes": 842
+    },
+    {
+        "id": "SG161222/RealVisXL_V5.0",
+        "author": null,
+        "downloads": 195245,
+        "likes": 191
+    },
+    {
+        "id": "Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+        "author": null,
+        "downloads": 213457,
+        "likes": 136
+    },
+    {
+        "id": "meta-llama/Llama-3.2-1B-Instruct",
+        "author": null,
+        "downloads": 10258268,
+        "likes": 1549
+    },
+    {
+        "id": "bartowski/magnum-v4-22b-GGUF",
+        "author": null,
+        "downloads": 1315,
+        "likes": 9
+    },
+    {
+        "id": "HuggingFaceTB/SmolLM2-135M-Instruct",
+        "author": null,
+        "downloads": 2045496,
+        "likes": 381
+    },
+    {
+        "id": "Qwen/Qwen2.5-Coder-14B-Instruct",
+        "author": null,
+        "downloads": 3046863,
+        "likes": 178
+    },
+    {
+        "id": "DavidAU/Maximizing-Model-Performance-All-Quants-Types-And-Full-Precision-by-Samplers_Parameters",
+        "author": null,
+        "downloads": 0,
+        "likes": 220
+    },
+    {
+        "id": "MaziyarPanahi/calme-3.2-instruct-78b",
+        "author": null,
+        "downloads": 705,
+        "likes": 222
+    },
+    {
+        "id": "tencent/HunyuanVideo",
+        "author": null,
+        "downloads": 941,
+        "likes": 2231
+    },
+    {
+        "id": "microsoft/phi-4",
+        "author": null,
+        "downloads": 675636,
+        "likes": 2283
+    },
+    {
+        "id": "mradermacher/Qwen2.5-1.5B-Instruct-uncensored-GGUF",
+        "author": null,
+        "downloads": 12619,
+        "likes": 15
+    },
+    {
+        "id": "ai-sage/GigaChat-20B-A3B-instruct",
+        "author": null,
+        "downloads": 694,
+        "likes": 53
+    },
+    {
+        "id": "stabilityai/stable-point-aware-3d",
+        "author": null,
+        "downloads": 2709,
+        "likes": 356
+    },
+    {
+        "id": "dphn/Dolphin3.0-Llama3.1-8B-GGUF",
+        "author": null,
+        "downloads": 39839,
+        "likes": 201
+    },
+    {
+        "id": "jinaai/ReaderLM-v2",
+        "author": null,
+        "downloads": 15182,
+        "likes": 808
+    },
+    {
+        "id": "physical-intelligence/fast",
+        "author": null,
+        "downloads": 0,
+        "likes": 180
+    },
+    {
+        "id": "bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF",
+        "author": null,
+        "downloads": 26313,
+        "likes": 317
+    },
+    {
+        "id": "moonshotai/Moonlight-16B-A3B-Instruct",
+        "author": null,
+        "downloads": 39953,
+        "likes": 202
+    },
+    {
+        "id": "Qwen/QwQ-32B",
+        "author": null,
+        "downloads": 379904,
+        "likes": 2954
+    },
+    {
+        "id": "ai4bharat/IndicF5",
+        "author": null,
+        "downloads": 20909,
+        "likes": 158
+    },
+    {
+        "id": "unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF",
+        "author": null,
+        "downloads": 29329,
+        "likes": 160
+    },
+    {
+        "id": "facebook/OMol25",
+        "author": null,
+        "downloads": 0,
+        "likes": 248
+    },
+    {
+        "id": "moonshotai/MoonViT-SO-400M",
+        "author": null,
+        "downloads": 4886,
+        "likes": 90
+    }
+]

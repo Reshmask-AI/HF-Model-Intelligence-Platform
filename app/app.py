@@ -1,19 +1,28 @@
-from flask import Flask, jsonify
+﻿from flask import Flask
 
-app = Flask(__name__)
+from app.routes import api
 
-@app.route("/")
-def home():
-    return jsonify({
-        "message": "Hello from DevOps Project!",
-        "status": "Application is running successfully."
-    })
 
-@app.route("/health")
-def health():
-    return jsonify({
-        "status": "Healthy"
-    })
+def create_app():
+    """
+    Application factory.
+    Creates and configures the Flask application.
+    """
+
+    app = Flask(__name__)
+
+    # Register API routes
+    app.register_blueprint(api)
+
+    return app
+
+
+# Create Flask application
+app = create_app()
+
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
+    app.run(
+        host="0.0.0.0",
+        port=5000
+    )
